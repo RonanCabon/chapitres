@@ -1,0 +1,1835 @@
+<!doctype html>
+ 
+<html lang="fr" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="../espagnol/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="bateau.css"/>
+
+<title>Permis bateau - Code Vagnon</title>
+</head>
+<body onload="initTraductionVisibility()">
+
+<!-- Bootstrap Bundle with Popper -->
+<script type="text/javascript" src="bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="bateau.js"></script>
+
+<h1>Code Vagnon - permis bateau côtier</h1>
+
+<header>
+<nav>
+    <ul>
+        <li><a href="#chapitre1">Chapitre 1 : Généralités</a></li>
+		<li><a href="#chapitre2">Chapitre 2 : Connaître la météorologie et décider de la sortie en mer</a></li>
+		<li><a href="#chapitre3">Chapitre 3 : La carte marine et son utilisation</a></li>
+		<li><a href="#chapitre4">Chapitre 4 : Connaître et prévoir les marées en navigation</a></li>
+		<li><a href="#chapitre5">Chapitre 5 : La sécurité en mer</a></li>
+		<li><a href="#chapitre6">Chapitre 6 : Protéger l'environnement maritime</a></li>
+		<li><a href="#chapitre7">Chapitre 7 : Le règlement international pour prévenir  les abordages en mer (RIPAM)</a></li>
+		<li><a href="#chapitre8">Chapitre 8 : Balisage maritime</a></li>
+		<li><a href="#chapitre9">Chapitre 9 : Règlementation de la navigation de plaisance</a></li>
+		<li><a href="#chapitre10">Chapitre 10 : Utilisation de la VHF</a></li>
+    </ul>
+</nav>
+</header>
+
+<div class="container">
+
+<main>
+
+<div class="bateau__sticky--buttons d-flex justify-content-end">
+<!-- <button onclick="showTraduction()">show traductions</button>
+<button onclick="hideTraduction()">hide traductions</button> -->
+<button onclick="toggleTraduction()">Afficher/cacher section à retenir</button>
+
+</div>
+
+<h2 id="chapitre1">Chapitre 1: Généralités</h2>
+
+<h3>Le permis plaisance option côtière</h3>
+	<ul>
+		<li>Qu'est ce que c'est ?</li>
+		
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Moteur, zone, âge </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>pour un bateau > 6 CV (4,5kW)</li>
+								<li>pour une distance <= 6 milles nautiques d'un abri</li>
+								<li>est utilisable aussi sur des lacs ou plans d'eau fermés</li>
+								<li>à partir de l'âge de 16 ans</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+		
+		<li>Quelques définitions</li>
+		
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Abri </div>
+						<div class="point-a-retenir">
+							<p>Endroit de la côte où tout engin, embarcation ou navire et son équipage peuvent se mettre en sécurité en muillant, attterrissant ou accostant et en repartir sans assistance.</p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> 4 zones de navigation </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>Basique < 2 milles (nautiques)</li>
+							<li>Côtière < 6 milles</li>
+							<li>Semi-hauturière < 60 milles</li>
+							<li>Hauturière > 60 milles</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Chef de bord </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>exerce le commandement du bateau</li>
+							<li>respecte l'ensemble des règles nautiques</li>
+							<li>est titulaire du permis bateau</li>
+							<li>est responsable de la sécurité du bateau et de ses passagers</li>
+							<li>division 240 : possibilité de conduite accompagnée avec la surveillance d'un chef de bord de > 3 ans d'expérience et sous certaines conditions</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Navire en route </div>
+						<div class="point-a-retenir">
+							<p>Plus d'attache avec la terre</p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Avoir de l'erre </div>
+						<div class="point-a-retenir">
+							<p>Avancer par rapport à la surface del'eau.
+							<br>L'expression « avoir de l'erre » désigne tout navire qui avance par rapport à l'eau même avec son moteur en marche</p>
+							<p>Lorsqu'un navire stoppe sa machine, il conserve de l'erre pendant un certain temps; ce n'est que lorsqu'il est complètement arrêté qu'on dit qu'il est sans erre. L'erre est fonction des qualités du bateau ainsi que de la force et de la direction du vent, du courant et des vagues.</p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Un mille marin </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>1852 mètres</li>
+							<li>est égal à une minute de latitude (échelles situées à gauche et à droite sur une carte marine)</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Un noeud </div>
+					<div class="point-a-retenir">
+						<p>Unité de vitesse, unoeud = 1 mille par heure soit 1852 mètres par heure</p>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Limitation de vitesse </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>dans une zone < 300 mètres, la vitesse est limitée à 5 noeuds</li>
+							<li>dans les ports, sauf indication contraire, la vitesse est limitée à 3 noeuds</li>
+							<li>Ces zones el leurs limites associées peuvent être élargies aussi par des panneaux</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+			
+			<li>Savoir s'orienter</li>		
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Savoir s'orienter / rose des vents </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>Nord : 000°</li>
+							<li>Est : 90°</li>
+							<li>Sud : 180°</li>
+							<li>Ouest : 270°</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Calcul d'un cap inverse </div>
+					<div class="point-a-retenir">
+						<p>Cap suivi +/- 180°, si cap suivi < 180° on ajoute 180°, si cap suivi > 180° on retire 180°</p>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le bateau à moteur</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Qu'est-ce qui est considéré comme un bateau à moteur ?</div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>Tous les scooters</li>
+							<li>Tout bateau à moteur, coque rigide ou pneumatique, avec ou sans cabine < 24 mètres</li>
+							<li>Sud : 180°</li>
+							<li>Ouest : 270°</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Description du bateau (poupe, proue, safran, ...) </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>Poupe : arrière du bateau</li>
+							<li>Proue : avant du bateau</li>
+							<li>Safran : quille ou dérive du bateau</li>
+							<li>Ouest : 270°</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+			
+				<li>Orientations</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+					<div class="point-etude"> Orientation (tribord, babord) </div>
+					<div class="point-a-retenir">
+						<ul>
+							<li>Tribord : partie droite du bateau en regardant l'avant</li>
+							<li>Babord : partie gauche du bateau en regardant l'avant</li>
+						</ul>
+					</div>
+					</div>				
+				</div>
+			</div>
+			
+				<li>Cas de collisions</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Après une collision en mer, à qui doit-on faire un rapport ? </div>
+						<div class="point-a-retenir">
+							<p>Aux affaires maritimes (Cross)</p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+	</ul>
+
+<h2 id="chapitre2">Chapitre 2: Connaître la météorologie et décider de la sortie en mer</h2>
+
+	<ul>
+		<li>L'information météorologique</li>
+		
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Où trouver l'information ? </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>panneaux affichage dans les capitaineries et bureaux des ports</li>
+								<li>par téléphone le 08 99 71 08 08 (Cross le plus proche et répondeurs météo France) ou le 3250 : Météo rivage et côtière</li>
+								<li>sur des sites internet</li>
+								<li>par VHF, centres de surveillance et de sauveage (Cross) canaux 79/80 ou 63/64</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Bulletins de météo spéciaux</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> BMS </div>
+						<div class="point-a-retenir">
+							<p>Les BMS annoncent par VHF une météo dangereuse de force >= 7, les Cross diffusent sur le canal 16 </p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les facteurs météorologiques</li>
+		
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Qu'est-ce qui génère vent et vagues ? anticyclone, dépression, ...</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>anticyclone : zone avec des pressions atmosphériques > 1013 hectopascals</li>
+								<li>dépression : zone avec des pressions atmosphériques < 1013 hectopascals</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Notion de "grain"</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Qu'est-ce qu'un grain ? </div>
+						<div class="point-a-retenir">
+							<p>Un "grain" est un chagement climatique brusque avec des averses, du vent vent violent et des vagues </p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Notion de brise thermique</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Qu'est-ce qu'une brise thermique ?</div>
+						<div class="point-a-retenir">
+							<p>Savoir expliquer les phénomènes de brise de mer et de brise de terre Cf. p25 </p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Vents en méditerranée</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Quels sont les vents ?</div>
+						<div class="point-a-retenir">
+							<p>Mistral, tramontane, libeccio, vent d'Autan </p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Mesurer le vent: Echelle de Beaufort</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Que retenir ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Gradation des vents sur une échelle de 0 à 12</li>
+								<li>Force 7 : Grand frais entre 28 et 33 noeuds (50 à 60 km/h)</li>
+								<li>Force 8 : Coup de vent entre 34 et 40 noeuds (62 à 74 km/h)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Mesurer les vagues en mètres de creux - Etat de la mer: Echelle de Douglas</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Que retenir ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Gradation des vagues et creux sur une échelle de 0 à 9</li>
+								<li>Elle donne 2 informations : un descriptif de la mer et une hauteur de vague</li>
+								<li>Niveau 4 : Mer agitée avec des vagues entre 1,25 et 2,5 mètres</li>
+								<li>On parle également de "la houle" en mètres de creux</li>
+								<li>Attention les vagues sont créées par le vent alors que la houle sont des ondes venues du large</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les signaux météo des sémaphores</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> En cas de BMS, quels sont les 3 types des signaux sur les sémaphores ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Grand frais force 7, signaux de jour et de nuit Cf. p28</li>
+								<li>Coup de vent et violente tempête, force 8 à 11, signaux de jour et de nuit Cf. p29</li>
+								<li>Ouragan, force 12, signaux de jour et de nuit Cf. p29</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les catégories de bateaux</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Quels sont les 4 catégories de bateaux et les informations associées (Douglas, Beaufort) ? A, B, C et D</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>de D  à A => les valeurs augmentent</li>
+								<li>Catégorie C : C26 => 2 mètres de vague et jusqu'à force 6</li>
+								<li>Catégorie B : B48 => 4 mètres de vague et jusqu'à force 8</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+	</ul>
+
+<h2 id="chapitre3">Chapitre 3 : La carte marine et son utilisation</h2>
+
+<p> La carte marine est une carte sur support papier ou électronique. <br> Sur cette carte il y a une échelle pour exprimer les distances sur la carte.</p>
+
+<ul>
+<li>Déterminer une distance sur une carte</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Echelle des latitudes </div>
+						<div class="point-a-retenir">
+							<p>Sur chaque carte, à gauche et/ou à droite se trouve une échelle des latitudes. Chaque minute de latitude vaut 1 mille marin (1852 mètres) </p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les principaux symboles à connaître</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les couleurs, les sondes, les lignes de sondes, les parenthèses, soulignée, zéro hydrographique</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Les couleurs : beige (terre), vert (l'estran - partie qui couvre et découvre avec la marée jusqu'à la limite à la plus basse mer - zéro hydrographique), bleu et blanc (zones toujours immergées) - Les zones les plus profondes en blanc.</li>
+								<li>Lignes de sondes : ligne indiquant les sondes d'égale valeur</li>
+								<li>Parenthèses : indication décalée par rapport au danger</li>
+								<li>Sondes(m) : profondeur aux plus basses mer (zéro hydrographique)</li>
+								<li>Soulignée : sonde (négative) qui découvre de la valeur indiquée aux plus basses mers</li>
+								<li>Zéro hydrographique : Le zéro hydrographique est voisin du niveau des plus basses mers (coéfficient 120)</li>								
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les dangers et la nature des fonds</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Epaves, rochers, nature des fonds</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Epaves Cf. p 41</li>
+								<li>Rochers Cf. p 41</li>
+								<li>Nature des fonds Cf. p 41</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les points remarquables</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Eglise, chateau d'eau, phare, sémaphore, port de pêche, port de plaisance, mouillage, mouillage interdit</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Cf. p 41</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+			<p>Tous les symboles sont décrits dans l'ouvrage <strong>"1D du Shom"</strong></p>
+
+				<li>Le balisage</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les bouées flottantes, les balises fixes, la flamme, les couleurs</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Cf. p 42</li>
+								<li>Couleurs indiquées des balises et des feux Cf. chapitre balisage (B: black, W: white, G: green, Y: yellow, R: red)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+</ul>
+
+<h2 id="chapitre4">Chapitre 4 : Connaître et prévoir les marées en navigation</h2>
+
+<p>Sous l'action de la lune qui attire les masses liquides, les eaux se gonflent en un endroit et se creusent en un autre en fonction de la rotation de la terre. <br> En 24 heures, il y a 2 pleines mers et 2 basses mers.</p>
+
+<ul>
+
+				<li>Les coéfficients de marée</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Quand est-ce que ça se passe ? Quels sont les coéfficients ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Grandes marées ou vive-eau : action du soleil et de la lune se combinent lors de la nouvelle lune et de la pleine lune</li>
+								<li>Petites marées ou morte-eau : action du soleil qui contrarie la lune lors du 1er et du dernier quartier de la lune</li>
+								<li>Pour indiquer le niveau ou l'amplitude des marées, on utilise une une échelle de coéfficients qui va de 20 à 120 </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les définitions indispensables</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Courant de marée, flot, jusant, marnage, pied de pilote, tirant d'eau, zéro des cartes, hauteur, profondeur, sonde</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Courant de marée : courant généré par le flot ou le jusant</li>
+								<li>Flot : Mouvement pendant la marée montante</li>
+								<li>Jusant : mouvement pendant la marée descendante</li>
+								<li>Marnage : Différence/amplitude entre la hauteur d'eau à la pleine mer et celle à la basse mer</li>
+								<li>Pied de pilote : Marge de sécurité ajoutée au tirant d'eau</li>
+								<li>Tirant d'eau : Hauteur/enfoncement du bateau dans l'eau</li>
+								<li>Zéro des cartes : niveau minimum de la mer au moment d'une basse mer à coéfficient 120. Permet également de définir la notion de sonde.</li>
+								<li>Hauteur d'eau : hauteur d'eau à l'instant "t" entre la surface de l'eau et le niveau zéro (des cartes)</li>
+								<li>Sonde : hauteur d'eau minimale au moment du zéro des cartes / zéro hydrographique. Celà correspond à la distance verticale minimale d'eau. 
+									<br> Distance verticale entre le niveau zéro et le fond
+									<br> Elle peut être négative lorsqu'un haut fond ou un rocher découvre au niveau zéro</li>
+								<li>Profondeur : Somme de la hauteur et de la sonde</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+<li>Les informations sur les marées </li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Où trouver les informations sur les marées ? </div>
+						<div class="point-a-retenir">
+							<p>Service du Shom </p>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Quelques astuces</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Bien avoir en tête le shéma avec Sonde négative, tirant d'eau, pied du pilote</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Si la sonde négative > hauteur d'eau => danger à la basse mer</li>
+								<li>Si la tirant d'eau + pied du pilote < hauteur d'eau => OK</li>
+								<li>Si le tirant d'eau > hauteur d'eau + sonde => problème (Attention au sonde négative)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+</ul>
+
+<h2 id="chapitre5">Chapitre 5 : La sécurité en mer</h2>
+
+<ul>
+
+				<li>Les situations de détresse, d'urgence et de sécurité</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Quand est-ce que ça se passe ? Quelles sont les 3 situations et leurs priorités ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Priorité 1 : Les situations de détresse 
+								<ul>
+									<li> Menace grave pour le navire avec danger de mort pour ses occupants : voie d'eau, incendie, attaque de pirates, homme à la mer non récupéré</li>
+									<li> En cas de priorité de détresse, tout navire proches se doit de porter assistance </li>
+									<li> Les secours interviennent dans le cadre de l'assistance aux personnes qui est totalement gratuite</li>
+								</ul>
+								</li>
+								<li>Priorité 2 : Les situations d'urgence 
+								<ul>
+								<li> Menace grave sans danger pour la vie humaine : panne moteur, démâtage, blessure importante</li>
+								<li> En cas de priorité d'urgence, tout navire proches se doit de porter assistance</li>
+								<li> Les secours interviennet dans le cadre de l'assistance aux biens; il faut avoir un bateau assuré (vérifier le contrat)</li>
+								</ul>
+								</li>
+								<li>Priorité 3 : Les situations de sécurité
+								<ul>
+								<li> Menace ou danger potentiel : objet flottant, nappe de pollution, situation météo dangereuse</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+				<li>Les intervenants de la sécurité en mer </li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Quels sont ces intervenants et leurs missions (3) ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Les "Cross"  qui assument la coordination des recherches et du sauvetage maritime et assurent la surveillance des zones maritimes
+								<ul>
+								<li> Ils sont gérés par les affaires maritimes</li>
+								<li> Leurs missions : surrveillance de la zone maritime, coordination des opérations de sauvetage, diffusion de bulletins d'informations (ex: BMS)</li>
+								<li> Il y 5 "Cross" pour la zone maritime métropolitaine</li>
+								</ul>
+								</li>
+								<li>La SNSM : intervient directement dans des opérations de sécurité et de sauvetage
+								<ul>
+								<li> C'est une organisation à but non lucratif qui fonctionne principalement avec des bénévoles  sur un système regroupant des subventions et des dons personnels</li>
+								</ul>
+								</li>
+								<li>Les moyens maritimes et aériens de l'Etat : marine nationale, douanes, gendarmerie, sécurité civile, ...</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+				<li>Comment se signaler en détresse ? </li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">La VHF, le téléphone portable, les moyens visuels ou sonores (au nombre de 6) ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>La VHF permet de signaler une situation de détresse ou d'urgence, un danger pour la navigation, ... 
+								<ul>
+								<li> La VHF a pour avantage d'être non-dépendant du réseau GSM</li>
+								<li> Sa portée dépend de sa puissance : 25W => portée de 25/30 milles, 5W => 5/6 milles</li>
+								<li> Elle permet aussi une géolocalisation : par radiogoniométrie ou en ASN lors de l'activation du bouton "distress" avec émission d'un message sur le canal 70 en cas d'activation du couplage GPS/VHF</li>
+								<li>permet également d'avoir des messages de détresse ou des BMS sur le canal 16</li>
+								</ul>
+								</li>
+								<li>Le téléphone portable : communication avec le Cross sur le numéro 196</li>  
+								<li>Les moyens visuels ou sonores
+								<ul>
+								<li> Son continu par n'importe quel moyen</li>
+								<li> Moyen lumineux pour une SOS = 3 signaux courts / 3 signaux longs / 3 signaux courts</li>
+								<li> Mouvement des 2 bras de bas en haut</li>
+								<li> Feu automatique à main, fusée de détresse
+								<li> Pavillon N et C du code international (2 drapeaux Cf. p65)</li>
+								<li> Boule noire associée à n'importe quel pavillon</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Les conduites à tenir ? </li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Cas d'incendie, voie d'eau, panne de carburant, moteur en panne, échouage du bateau, un équiper se blesse gravement, une personne tombe à l'eau</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li> Cas d'incendie
+								<ul>
+								<li> Les raisons : manipulation de carburants, moteur, circuits électriques, cuisine à bord, ...</li>
+								<li> Actions : lutter contre les raisons de l'incendie</li>
+								<li> Si non maitrisable : appel de détresse sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, mettre les brassières et évacuer le bateau</li>
+								<li> Si maitrisable : appel de détresse sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, mettre les brassières et mouiller l'ancre</li>
+								<li> en cas d'incendie de carburants, utiliser un extincteur à poudre ou à CO2</li>
+								</ul>
+								</li>
+								<li>Cas d'une voie d'eau 
+								<ul>
+								<li> Actions : identifier la voie d'eau : safran, panneaux du pont, hublots, systèmes d'évacuation d'eau, ...</li>
+								<li> Appel de détresse sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, mettre les brassières</li>
+								</ul>
+								</li>
+								<li> Panne de carburant
+								<ul>
+								<li> Etre capable d'évaluer selon le parcours et la météo la quantité de arburant nécessaire avant la sortie et prévoir une réserve de 30%</li>
+								</ul>
+								</li>  
+								<li>Moteur en panne
+								<ul>
+								<li> Appel d'urgence sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, mettre les brassières, mouiller l'ancre</li>
+								</ul>
+								</li>
+								<li> Echouage du bateau
+								<ul>
+								<li> Appel de détresse sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, mettre les brassières, préparer intervention des secours</li>
+								</ul>
+								</li>
+								<li>Un équipier se blesse gravement
+								<ul>
+								<li> Appel de détresse sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, mettre les brassières, naviguer vers le port le plus proche</li>
+								</ul>
+								</li>
+								<li>Une personne tombe à l'eau
+								<ul>
+								<li> Appel de détresse sur VHF canal 16 ou via GSM numéro 196 et tous les moyens visuels ou sonores, rechercher activement la personne et mettre le bateau côté vent et couper le moteur en cas de repêchage de la personne</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+						
+</ul>
+
+<h2 id="chapitre6">Chapitre 6 : Protéger l'environnement maritime</h2>
+
+<ul>
+
+				<li>Prévenir les pollutions aquatiques</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Adopter les bons comportements en navigation</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Utiliser des sacs lourds ou des paniers pour transporter les affaires - pas de sacs en plastique </li>
+								<li>Utiliser des cendriers - pas de mégots à la mer</li>
+								<li>Ramasser au maximum tout ce qui est plastique (sacs plastiques, ...)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Entretenir le bateau</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Equipement et entretien du bateau</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Vidangez les cuves d'eaux usées</li>
+								<li>Lavage à l'eau - ne pas utiliser de chlore</li>
+								<li>Effectuer le carénage sur des aires prévues à cet effet</li>
+								<li>Ne pas utiliser de peinture antifueling sur la coque du bateau</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Respecter la faune et la flore</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Adopter les bons comportements</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Mouillez en priorité sur du sable</li>
+								<li>Rincer l'ancre à l'eau sur place</li>
+								<li>Eviter de faire des remous sur des zones sensibles</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Respecter les cétacés</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">En cas de rencontres avec des cétacés</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Réduire la vitesse à 5 noeuds</li>
+								<li>Eteindre sondes et sonars</li>
+								<li>Respecter une distance de 100 mètres avec les cétacés </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+				<li>Limiter son impact écologique</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Impact écologique et zones protégées</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Ramasser les sacs plastiques</li>
+								<li>Respecter les tailles minimales our les poissons et les coquillages</li>
+								<li>Respecter les zones protégées et les sites Natura 2000(zones où sont identifiées des espèces animales ou végétales rares ou fragiles)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+</ul>
+
+<h2 id="chapitre7">Chapitre 7 : Le règlement international pour prévenir  les abordages en mer (RIPAM) </h2>
+
+<p>RIPAM (Règlement International pour Prévenir les Abordage en Mer) - codifie des règles de circulation entre les navires.
+<br> Le RIPAM contient <strong>38 règles</strong>.</p>
+
+<h3>Les règles de barre et de route</h3>
+
+<ul>
+
+		<li>Les règles générales</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">les règles générales (notion de privilège, obligation de veille) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>On ne parle pas de "priorité" mais de "privilège" => un navire n'est pas prioritaire par rapport à un autre mais qu'il bénéficie d'un provilège lui permettant par exemple devant un autre navire. </li>
+								<li>L'obligation de veille est obligatoire et permanente dès que le navire est en route. Elle doit être complététée d'une veille d'écoute sur le canal 16 de la VHF.</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Gisement, relèvement, route d'abordage et route de collision </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Le gisement est l'angle entre l'axe dans lequel le bateau avance et la direction dans laquelle on voit ou on repère un autre bateau </li>
+								<li>Le relèvement est l'angle entre le Nord et la direction dans laquelle on voit ou on repère un autre bateau</li>
+								<li> 2 navires font route d'abordage ou route de collision lrsque le gisement ou le relèvement est constant au fur et à mesure où les 2 bateaux avancent;</li>
+								<li>Por sortir d'une route d'abordage il faut activer une variation du gisement ou de relèvement significative ( > 150°)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les règles de privilège entre les navires</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Règle de privilège du navire venant de la droite, en face-à-face, règle du rattrapant et comportement du navire privilégié </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Règle de privilège du navire venant de la droite: tout navire laisse passer un autre navire venant sur tribord </li>
+								<li>En face-à-face, chacun des 2 bateaux doit manoeuvrer sur tribord</li>
+								<li>Le navire rattrapé est privilégié et le rattrapant peut passer indifféremment à babord ou tribord du rattrapé
+								<br> Note : le navire rattrapé reste privilégié tant que le rattrapant ne l'a pas complètement dépassé</li>
+								<li>Le navire privilégié doit maintenir son cap et sa vitesse dans les manoeuvres décrites par rapport au rattrapant</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les navires privilégiés</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Qu'est-ce qu'un navire privilégié ?, ordre de privilèges des navires (5 cas) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Un navire privilégié est un navire qui pour une raison ne peut pas respecter les règles de privilège (les règles d'engagement) entre navires exprimés ci-dessous </li>
+								<li>Ordre de privilèges des navires (5 cas de privilèges rangés du plus important au moins important):
+								<ul>
+								<li>cas 1 (2 boules noires) : le navire non maître de sa manoeuvre (ex: avarie moteur, ...) qui ne peut pas manoeuvrer correctement,</li>
+								<li>cas 2 (1 boule noire + 1 bicône noir + une boule noire) : le navire avec une capacité de manoeuvre restreinte (ex: en  raison de son action, pose de cables, travail portuaire, ...)</li>
+								<li>cas 3 (1 cylindre noir) : navire handicapée ar son tirant d'eau</li>
+								<li>cas 4 (2 cônes noirs opposés par la pointe) : le navire en action de pêche</li>
+								<li>cas 5 : navire marchant à voile uniquement. Note: si un navire à voile et à moteur, navigue au moteur, il doit mettre un cône noir pointé vers le bas pour indiquer qu'il n'est pas privilégié</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>La navigation dans les chenaux</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Quelles sont les règles (3) et privilège (1) ? </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Se tenir sur la droite du chenal </li>
+								<li>Rentrer dans le chenal par son entrée ou son côté tout en suivant la règle 1</li>
+								<li>Ne pas traverser en diagonale le chenal</li>
+								<li>Privilège : Tout navire de plus de 20 mètres est privilégié sur un bateau de petite taille</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le passage des écluses</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Quelles sont les règles ? </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Respecter les consignes des éclusiers </li>
+								<li>Amarrer son bateau lors du remplissage et du vidage de l'écluse</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les règles de barre entre voiliers</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Quelles sont les règles (2) ? position, amure, ...</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Le voilier tribord amure (qui reçoit son vent à tribord) est privilégié par rapport à celui qui reçoit son vent à babord </li>
+								<li>Lorsque 2 bateaux sont sous la même amure, celui sous le vent (qui reçoit son vent en 2ème) est privilégié</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+</ul>
+
+<h3>Les feux et marques des navires</h3>
+
+<ul>
+
+		<li>Généralités sur les feux des navires</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Cas de la navigation de nuit (du coucher au lever du soleil): les 4 feux et les astuces/règles (2) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Tout navire à moteur de moins de 50 mètres dispose de 4 feux de position :
+								<ul>
+								<li> un feu de tête de mât (avant du bateau) de couleur blanche éclairant un angle de 225°</li>
+								<li> un feu de côté babord de couleur rouge éclairant un angle de 112,5°</li>
+								<li> un feu de côté tribord de couleur verte éclairant un angle de 112,5°</li>
+								<li> un feu de poupe de couleur blanche éclairant un angle de 135°</li>
+								</ul>
+								</li>
+								<li>Astuce : Lorsque l'on est un navire rattrapant (qu'on est donc derrière un bateau), le seul feu visible est le feu de poupe (différence avec le cas où on arriverait de face)</li>
+								<li>Règle : Les feux doivent être allumés du coucher au lever du soleil <strong>et en cas de visibilité réduite (ex: cas de brouillard, ...)</strong></li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires à moteur faisant route</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">4 catégories de bateau </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Navire de moins de 7 mètres naviguant à moins de 7 noeuds  : un feu blanc visible à 360° (Attention à distinguer avec la vision d'un feu de poupe simple)</li> 
+								<li>Navire de moins de 20 mètres : Présence des 4 feux avec des feux de côté peuvent être proches</li>
+								<li>Navire de moins de 50 mètres : Idem bateaux de moins de 20 mètres avec des feux de côté éloignés</li>
+								<li>Navire de plus de 50 mètres : Idem bateaux de moins de 50 mètres avec la présence de 2 feux de tête de mât</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+		<p><strong>On va retrouver dans les points ci-dessous les différents cas de navires privilégiés (5) </strong></p>
+
+		<li>Cas des navires uniquement à voile (cas 5)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Différentiation entre les navires de < 20 mètres et > 20 mètres </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li> < 20 mètres : présence des feux de côté + feu de poupe</li> 
+								<li> > 20 mètres : présence d'un feu rouge sur feu vert visible à 360°</li> 
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires fonctionnant à voile et/ou à moteur</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : cône noir pointe en bas</li>
+								<li>navigation de nuit : présence des 4 feux</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires non maître de leurs manoeuvres (navigation avec erre) (cas 1)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 2 boules noires</li>
+								<li>navigation de nuit : 2 feux rouges visibles à 360° + feux de côté + feu de poupe. Attention : si sans erre, présence des seuls 2 feux rouges</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires à capacité de manoeuvre restreinte (navigation avec erre) et navires support de plongée (cas 2)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 1 boules noire + 2 cônes noirs (direction haut et bas) + 1 boule noire </li>
+								<li>navigation de nuit : 3 feux (rouge, blanc, roue) + 4 feux. Attention : si sans erre, présence des seuls 3 premiers feux</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+		<li>Cas des navires à capacité de manoeuvre restreinte en stationnement avec obstruction (cas 2)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : Au milieu (1 boules noire + 2 cônes noirs (direction haut et bas) + 1 boule noire) + sur un côté (2 boules noires) + de l'autre côté (2 cônes noirs) indiquant le côté à utiliser pour dépasser </li>
+								<li>navigation de nuit : Au milieu (3 feux (rouge, blanc, roue) + sur un côté (2 feux rouges) + de l'autre côté (2 feux verts) indiquant le côté à utiliser pour dépasser  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+		<li>Cas des navires handicapés par le tirant d'eau (navigation en route avec erre) (cas 3)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 1 cylindre noir </li>
+								<li>navigation de nuit : 3 feux rouges superposés visibles à 360° + présence des 4 feux</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+		<li>Cas des navires chalutiers (navigation en route) (cas 4)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 2 cônes noirs opposés par les pointes </li>
+								<li>navigation de nuit : 1 feu vert sur un feu blanc + présence des 4 feux</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des autres navires de pêche (navigation en route) (cas 4)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 2 cônes noirs opposés par les pointes </li>
+								<li>navigation de nuit : 1 feu rouge sur un feu blanc + présence des 4 feux</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des bateaux pilotes</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : Le mot "pilote" est écrit sur la coque </li>
+								<li>navigation de nuit : 1 feu blanc sur un feu rouge (casquette blanche sur bonnet rouge) + feux de côté et feu de poupe</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des autres navires remorqueurs avec remorque < 200 mètres (navigation en route)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : que pour la nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 2 cônes noirs opposés par les pointes </li>
+								<li>navigation de nuit : Remorqueur : Présence des 4 feux + un 2ème feu blanc en tête de mat + 2ème feu jaune en poupe, Remorqué : feux de côté + feu de poupe </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des autres navires remorqueurs avec remorque > 200 mètres (navigation en route)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : Remorqueur : 2 cônes opposés noire, Remorqué : 2 cônes opposés noirs</li>
+								<li>navigation de nuit : Remorqueur : Présence des 4 feux + 2 feux blanc en tête de mat + 2ème feu jaune en poupe, Remorqué : feux de côté + feu de poupe </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires en mouillage</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 1 boule noire à l'avant</li>
+								<li>navigation de nuit : < 50 mètres, 1 feu blanc 360°; > 50 mètres, 2 feux blancs 360°; > 100 mètres, pont totalement éclairé  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires échoués</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : 3 boules noires </li>
+								<li>navigation de nuit : < 50 mètres, 1 feu blanc et 2 feux rouges 360°; > 50 mètres, 2 feux blancs et 2 feux rouges 360°; > 100 mètres, pont totalement éclairé  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Cas des navires transportant des matières dangereuses</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude bateau__blk--important">ATTENTION : distinguer les cas de navigation de jour et de nuit !!! </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>navigation de jour : Pavillon (B) Bravo rouge </li>
+								<li>navigation de nuit : 1 feu rouge 360° + 4 feux  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+</ul>
+
+<h3>Les signaux sonores</h3>
+
+<p><strong> 2 types de signaux sonores => signaux de manoeuvre et d'avertissement et signaux de brume</strong>
+<br>On utilisera obligatoirement les signaux sonores en cas de visibilité réduite
+<br>Les différents signaux sonores sont codifiés dans le RIPAM
+<br>Même si la division 240 n'indique pas la présence de la corne de brume obligatoire sur un bateau de plaisance, ce dispositif reste obligatoire selon le RIPAM </p>
+
+<ul>
+
+		<li>Les signaux à la corne de brume - Généralités</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les différents signaux (3) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>des sons brefs de 1 à 2 secondes </li>
+								<li>des sons longs de 4 à 6 secondes  </li>
+								<li>des volées de cloche ou un coup de gong sur les grands bateaux  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+		<li>Les signaux de manoeuvres (3)</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les différents signaux de manoeuvre (3) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>1 son court :  je vais me diriger à tribord</li>
+								<li>2 sons courts : je vais me diriger à babord </li>
+								<li>3 sons courts : je vais battre en arrière </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les signaux d'avertissements</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">En cas de doute sur la manoeuvre, signal d'avertissement simple, signaux de dépassement </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>En cas de doute sur la manoeuvre : Rencontre de 2 bateaux, le bateau privilégié va émettre 5 sons courts à l'encontre de l'autre bateau</li>
+								<li>Signal d'avertissement simple : Un bateau pour avertir de sa présence va émettre un son long (ex : lorsque 2 bateaux ne se voient pas en raison d'un obstacle) </li>
+								<li>Signaux de dépassement : je veux dépasser par tribord (2 sons longs + 1 son bref), je veux dépasser par babord (2 sons longs + 2 sons brefs), le bateau rattrapé donne son accord avec 1 son long + 1 son court + 1 son long + 1 son court </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+</ul>
+
+<h3>Les signaux de brume</h3>
+
+<p>Par temps de brume, il faut allumer les feux, réduire sa vitesse et augmenter sa vigilance.</p>
+
+<ul>
+
+		<li>Les signaux de brume - Généralités</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les différents signaux (7) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Navire à moteur avec erre : 1 son prolongé toutes les 2 minutes </li>
+								<li>Navire faisant route sans erre :2 sons prolongés toutes les 2 minutes </li>
+								<li>Navire privilégié : 1 son prolongé + 2 sons brefs toutes les 2 minutes </li>
+								<li>Convoi remorqué : Remorqueur (1 son prolongé + 2 sons brefs) , Remorqué (1 son prolongé + 3 sons brefs) </li>
+								<li>Bateau pilote : 4 sons brefs  </li>
+								<li>Navire au mouillage de < de 100 mètres : cloche 5 secondes ou 1 son court + 1 son prolongé + 1 son court </li>
+								<li>Navire au mouillage de > de 100 mètres : cloche 5 secondes + 1 gong ou 1 son court + 1 son prolongé + 1 son court </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+</ul>
+
+<h2 id="chapitre8">Chapitre 8 : Balisage maritime </h2>
+
+<p>Le balisage maritime est un mode de signalisation des dangers, des obstructions et des passages.</p>
+
+<ul>
+
+		<li>Les types de marques dans le balisage international - Généralités</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les différents types de marques (5) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Les marques <strong>latérales</strong> qui indiquent un passage et un chenal </li>
+								<li>Les marques <strong>cardinales</strong> qui indiquent un danger et l'endroit par lequel il faut passer pour éviter le danger </li>
+								<li>Les marques <strong>de dangers isolés</strong> que l'on peut contourner sur un bord ou l'autre </li>
+								<li>Les marques <strong>d'eaux saines</strong> qui indiquent par où passer pour trouver des eaux sans danger </li>
+								<li>Les marques <strong>spéciales</strong> qui indiquent les zones interdites ou règlementées  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage latéral</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Le balisage latéral permet d'indiquer aux navigateurs les passages sûrs pour entrer ou sortir d'un port, d'une baie ou d'une rade </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Le balisage latéral indique les côtés babord et tribord de la route à suivre </li>
+								<li>Le balisage latéral sont positionnés pour banaliser un chenal. Une alternance de balises babord cylindriques rouge et tribord coniques vertes</li>
+								<li>Quand il y a présence des 2 balises, en entrant ou en sortant, la situation est plus facile, il faut passer entre les 2 balises </li>
+								<li>Petite astuce : Quand on entre dans le port, on peut penser aux feux sur le bateaux et à la pointe (proue) du bateau qui est entre ces 2 feux</li>
+								<li>Il peut n'y avoir qu'une seule des 2 balises => en entrant au port : on passe à droite de la balise cylindrique rouge et à gauche de la balise tribord conique verte, en sortant du port : raisonnement inverse </li>
+								<li>Pour les marques de chenaux préférés, il faut se concentrer sur la dominante rouge ou verte de la balise et suivre les codes d'entrée dans un port qui permettra de déterminer le chenal principal et le chenal secondaire  </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage cardinal</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les marques cardinales sont utilisées pour baliser un danger relativement étendu. Il y a 4 balises cardinales. 
+						<br>On peut les distinguer les couleurs des pieds et du corps de la balise et par la présence des flèches au sommet de ces balises
+						<br>il faut reconnaître la balise + regarder la boussole pour connaître la direction à prendre</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Chacune de ces balises cardinales aura pour ses couleurs, une alternance de couleur jaune et noire.
+								L'alternance de ces 2 couleurs est couplée au sens des flèches au sommet de cette même balise => <strong>Astuce : Les flèches pointent vers le noir</strong></li>
+								<li>La balise cardinale nord : pied jaune, corps noir, au sommet 2 flèches vers le haut. Il faut regarder les flèches + la boussole pour savoir où passer </li>
+								<li>La balise cardinale sud : pied noir, corps jaune, au sommet 2 flèches vers le bas. Il faut regarder les flèches + la boussole pour savoir où passer</li>
+								<li>La balise cardinale est : pied noir, corps jaune/noir, au sommet 2 flèches superposés faisant pensé à un "E". Il faut regarder les flèches + la boussole pour savoir où passer </li>
+								<li>La balise cardinale ouest : pied jaune, corps noir/jaune, au sommet 2 flèches superposés faisant pensé à un "W". Il faut regarder les flèches + la boussole pour savoir où passer</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage de danger isolé</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Permet d'indiquer un danger délimité facilement contournable indifféremment sur un bord ou l'autre</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>La balise est présentée par 2 boules noires sur une balise avec un corps noir et rouge et un pied noir </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage d'eaux saines</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Permet d'indiquer la direction où aller pour trouver les zones naviguables sans danger. On peut alors facilement les contourner indifféremment sur un bord ou l'autre</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>La balise est présentée par 1 boule rouge et un corps et un pied strié en rouge et blanc verticalement </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage de marque spéciale</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Permet d'indiquer un danger représenté par une construction ou une installation. On peut alors facilement les contourner indifféremment sur un bord ou l'autre</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>La balise est présentée par 1 croix jaune et un corps et un pied jaunes </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage de danger nouveau</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Permet d'indiquer une obstruction récemment découverte (épave, banc de sable, ...). On peut alors facilement les contourner indifféremment sur un bord ou l'autre</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Le balisage se fait par 2 marques latérales ou 2 marques cardinales identiques </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage d'épave récente</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Permet d'indiquer l présence d'une épave. On peut alors facilement les contourner indifféremment sur un bord ou l'autre</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>La balise est présentée par 1 croix jaune et un corps et un pied strié en bleu et jaune verticalement </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les ponts sur les bras de mer</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">les différents indicateurs</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Même logique que pour l'entrée dans un port </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage de plage</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">les différents indicateurs : bouées et pictogrammes</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>La limite des 300 mètres : bouées sphériques jaunes + rappel sur la vitesse de 5 noeuds</li>
+								<li>Les chenaux traversiers : bouées coniques jaunes (laisser à tribord), bouées cylindriques jaunes (laisser à babord) </li>
+								<li>Les zones interdites aux engins à moteur : bouées sphériques jaunes) </li>
+								<li>Les pictogrammes : fond bleu (autorisé), barré en rouge (interdit) </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Le balisage conventionnel de nuit</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Caractéristiques générales des feux, les feux de balisage conventionnels (marques latérales, marques cardinales, danger isolé, eaux saines, marques spéciales, danger nouveau, épave en cas d'urgence, ponts sur les bras de mer) </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Caractéristiques générales des feux : feux à éclats, feux à occultations, feux scintillants, feux isophases</li>
+								<li>Les feux de balisage conventionnels / marques latérales : balise latérale babord (clignotement rouge), balise latérale tribord (clignotement vert), </li>
+								<li>Les feux de balisage conventionnels / marques cardinales : Nord (scintillement continu), Sud (6 scintillements + 1 éclat long), Est (Alternance de 3 scintillements), Ouest (9 scintillements)
+								<br><strong>Astuce: pour ce système de scintillements, on peut superposer la rose des vents à une horloge => Est = 3heures (3 scintillements), Sud = 6 heures (6 scintillements + 1 long), Ouest = 9 heures (9 scintillements), Nord = 12 heures (plein de scintillements, scintillements continus)</strong></strong></li>
+								<li>Les feux de balisage conventionnels / marques de danger isolé : 2 éclats long blanc groupés</li>
+								<li>Les feux de balisage conventionnels / marques d'eaux saines : 1 éclat long blanc </li>
+								<li>Les feux de balisage conventionnels / marques spéciales : clignotement jaune </li>
+								<li>Les feux de balisage conventionnels / marques danger nouveau : un éclairage sur chaque balise </li>
+								<li>Les feux de balisage conventionnels / marques épave en cas d'urgence : clignotement alternatif bleu et jaune </li>
+								<li>Les feux de balisage conventionnels / marques sur les ponts de mer : feux fixes </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Les signaux d'entrée et de sortie de port</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les différents types de feux (tricolores) : entrée interdite, attendre, passage à sens unique, passage à double sens, en attente d'instructions, possibilité de passer sans tenir compte </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Entrée interdite : feux à éclats rouges</li>
+								<li>Attendre : feux rouges fixes </li>
+								<li>Passage à sens unique : 3 feux verts (nous on peut passer)</li>
+								<li>Passage à double sens : De bas haut en bas => 2 feux verts + 1 feu blanc</li>
+								<li>Demande d'instructions spéciales : De bas haut en bas => 1 feu vert + 1 feu blanc + 1 feu vert</li>
+								<li>Passage sans tenir compte des instructions (à condition qu'on entre sans passer par le chenal défini) : un feu jaune supplémentaire à gauche du feu tricolore </li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+</ul>
+
+<h2 id="chapitre9">Chapitre 9 : Règlementation de la navigation de plaisance </h2>
+
+<p>Le balisage maritime est un mode de signalisation des dangers, des obstructions et des passages.</p>
+
+<ul>
+
+		<li>Les règles des activités nautiques - Généralités</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Les véhicules nautiques à moteur (VNM), ski nautique / wakeboard, engins tractés, la pêche en mer, la plongée subaquatique, l'utilisation des annexes, kayaks/canoës/planche à voile </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Les VNM ne peuvent être pratiqués que le jour
+								<ul>
+								<li>Utilisation par 1 personne : navigation maximale à 2 miles d'un abri + brassière de sauvetage de 50 newtons (50N) + dispositif lumineux</li>
+								<li>Utilisation par > 1 personne : navigation maximale à 6 miles d'un abri brassière de sauvetage de 100 newtons (100N) + dispositif lumineux</li>
+								</ul>
+								</li>
+								<li>Le ski nautique et le wakeboard : tractage par 2 personnes (1 titulaire du permis bateau + 1 personne en surveillance du skieur) </li>
+								<li>Les engins tractés : le bateau tracteur doit avoir une flamme de couleur orange d'au moins 2 mètres + 2 personnes Cf. ski nautique/wakeboard </li>
+								<li>La pêche en mer :
+								<ul>
+									<li>Il est interdit de vendre les produits de sa pêche,</li>
+									<li>il faut couper la nageoire caudale inférieure,</li>
+									<li>Il faut respecter les tailles minimales,</li> 
+									<li>Il faut respecter le nombre de types d'engin de pêche autorisés (filet, casiers (2 max.), ...)</li>
+								</ul>
+								</li>
+								<li>La plongée subaquatique : Avoir un des 3 pavillons sur le support de plongée + les bateaux doivent passer à 100m (Cf. idem que pour les cétacés)</li>
+								<li>La chasse sous-marine : plongée seulement en apnée et de jour uniquement</li>
+								<li>L'utilisation des annexes : Elles ne doivent pas s'éloigner à plus de 300 mètres de la côte ou du navire porteur (sinon obligation de brassières et d'un moyen de repérage lumineux)</li>
+								<li>Les kayaks, les canoës, planche à voile : Brassière de 50N</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>L'équipent et l'armement des navires de plaisance - Généralités</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Généralités, équipements de sécurité obligatoires et celles en fonction de la navigation (14), enregistrement des navires de plaisance à usage personnel </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li><strong>Généralités</strong>
+								<ul>
+								<li>Il importe au chef de bord de prévoir tous les moyens nécessaires pour permettre la sécurisation du bateau et des personnes sur le bateau</li>
+								<li>La règlementation qui définit l'équipement obligatoire est <strong>la division 240</strong></li>
+								</ul>
+								</li>
+								<li><strong>Equipements de sécurité obligatoires</strong>
+								<ul>
+								<li>Equipements fournis et installés par les fabricants : Dispositif coupe-circuit sur les moteurs, moyen de remontée à bord (échelle, ...)</li>
+								<li>Equiments pour être conforme au RIPAM : Boule noir de mouillage, corne de brume ou système sonore, feux de navigation, pavillons N & C</li>
+								</ul>
+								</li>
+								<li><strong>Equipements de sécurité en fonction de la navigation (Zone basique < 2 miles / Zone côtière < 6 miles) - 14 équipements</strong>
+								<br>Penser au chapitre sur la sécurité en mer et les 5 situations de sécurité
+								<ul>
+								<li>(1) Gilets de sauvetage 50/100 N + moyen de repérage lumineux (zones basiques et côtières)</li>
+								<li>(2) Moyens de repérage lumineux individuel ou sur chaque gilet de sauvetage / torches étanches (zones basiques et côtières)</li>
+								<li>(3) Dispositif de protection contre les incendies, exticteurs, ... (zones basiques et côtières)</li>
+								<li>(4) Dispositif d'assèchement manuel / électrique (zones basiques et côtières)</li>
+								<br>(5) Dispositif de remorquage : point d'amarrage, cordes d'au moins 25 mètres (zones basiques et côtières)</li>
+								<li>(6) Dispositif de ligne demouillage, ancre marine (zones basiques et côtières)</li>
+								<li>(7) Moyens de connaître les heures, hauteur d'eau, coéfficients de marée, carte zone de navigation, ... (zones basiques et côtières)</li>
+								<li>(8) Pavillons national pour les eaux internationales (zones basiques et côtières)</li>
+								<li>(9) Bouée individuelle avec feux de retournement (zones côtières)</li>
+								<li>(10) 3 Feux rouges de détresse (zones côtières)</li>
+								<li>(11) Compas de route : compas magnétiques / systèmes de positionnement par satellites (zones côtières)</li>
+								<li>(12) Cartes marines (zones côtières)</li>
+								<li>(13) Descriptif du RIPAM (zones côtières)</li>
+								<li>(14) Descriptif du balisage (zones côtières)</li>
+								</ul>
+								</li>
+								<li>Enregistrement des navires de plaisance à usage personnel
+								<ul>
+									<li>Création d'un certificat d'enregistrement (caractéristiques du bateau, du moteur, adresse u propriétaire, nom du bateau et immatriculation,</li>
+									<li>Cette démarche d'enregistrement peut être faite sur demarches-plaisance.gouv.fr ou au guichet de la DDTM (Direction départemental du Territoire et de la Mer),</li>
+									<li>Attention, il existe une taxe supplémentaire pour les bateaux > 7 mètres ou avec un moteur > 22CV</li>
+									<li>L'immatriculation est formée de la concaténation de 2 lettres (quartier maritime de rattachement et de 6 caractères(une lettre et 5 chiffres)</li>
+									<li>Les documents obligatoires à bord : le permis côtier, le code du RIPAM, cartes marines, licence d'exploitation VHF (si présente), ...</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+</ul>
+
+<h2 id="chapitre10">Chapitre 10 : Utilisation de la VHF </h2>
+
+<ul>
+
+		<li>Généralités</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Autorisation et types de VHF </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Depuis 2011, les VHFs sont autorisées sur les navires de plaisance avec un chef de bord titulaire du permis côtier</li>
+								<li>Il existe 2 types de VHF : les fixes (portée: 25 à 30 milles + couplage ASN) et les mobiles (portée: 5 milles)</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+			
+		<li>Connaissance du service mobile maritime</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude">Agence nationale des fréquences, responsabilité du chef de bord, licence d'exploitation, canaux VHF, alphabet phonétique international </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Agence nationale des fréquences radio (ANFR). Les bateaux disposant d'une VHF doivent être enregistrés avec l'ANFR.</li>
+								<li>Responsabilité du chef de bord : Les titulaires du permis de bateau option côtière peuvent utiliser une VHF dans les eaux françaises</li>
+								<li>Licence d'exploitation : Tout navire possédant une VHF doit avoir une licence d'exploitation délivrée par l'ANFR qui délivre au navire un indicatif d'appel unique au monde.
+								<br>Cette licence regroupe les informations suivantes: indicatif d'appel, nom et immatriculation du bateau, MMSI, coordonnées du propriétaire, description des appareils radio-électriques</li>
+								<li>Les bandes et les principaux canaux VHF
+									<ul>
+										<li>ces canaux ont une bande comprise entre 30 et 300 MHz et est découpée en 55 canaux,</li>
+										<li>Il y a 2 modes : simplex (navigation de plaisance) et duplex pour les bateaux professionnels</li>
+										<li>Principaux canaux : Veille et sauvegarde de la vie humaine (16), trafics entre navires (6,8,72,77), Ports de plaisance (9), Marine nationale / sémaphores (9,13), Capitainerie des ports de commerce (13), Cross et SNSM (67,68), Bulletins météorologiques (63,64,79,80)</li>
+									</ul>
+								<li>L'alphabet phonétique international</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Connaissance sur le SMDSM et la convention SAR</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Que sont le SMDSM et le SAR ?</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>SMDSM : Système de radiocoomunication à couverture mondiale initiée par l'OMI (organisation maritime internationale) en 1988. Le monde est ainsi découpé en 4 zones (A1, A2, A3 et A4). Zone A1 (Europe)</li>
+								<li>La convention SAR organise et gère de manière internationale la coordination des opérations de sauvetage en mer (ex: gestion des CROSS, ...)</li>
+								<li>Licence d'exploitation : Tout navire possédant une VHF doit avoir une licence d'exploitation délivrée par l'ANFR qui délivre au navire un indicatif d'appel unique au monde.
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>La fonction ASN de la VHF</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Qu'est-ce que l'ASN ?, identification des stations ASN, utilisation de l'ASN, code de détresse en ASN</div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>L'ASN est un mode de communication en numérique,</li>
+								<li>Les stations ASN sont identifiées par un code MMSI délivré par l'ANFR dont le préfixe est le MID (226,227 et 228 pour la France),</li>
+								<li>L'émission et la réception se font sur le canal 70 de la VHF,</li>
+								<li>Codes de détresse en ASN : Man Overboard (homme à la mer), Adrift (à la dérive), Flooding (Voie d'eau), Grounding (Echouement), Listing (Bâteau gité), Sinking (Le bâteau coule)</li>
+								<li>Une alerte de détresse en ASN émet le MMSI du bateau  et sa position</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Mettre en oeuvre la VHF</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Différentes étapes (4): </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Allumer la VHF et régler le volume,</li>
+								<li>Régler le squelch,</li>
+								<li>Se mettre sur le canal 16,</li>
+								<li>Mettre la puissance d'émission sur High</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+
+		<li>Du bon usage de la VHF</li>
+
+			<div class="card bateau__sample-block--bgcolor">
+				<div class="card-body">
+					<div class="d-flex flex-row justify-content-start">
+						<div class="point-etude"> Les différents types de messages (3), utilisation du canal 16 et protection des fréquences de détresse : </div>
+						<div class="point-a-retenir">
+							<ul>
+								<li>Message de détresse concernant la sauvegarde de la vie humaine en mer
+									<ul>
+										<li>Ils sont de priorité absolue et commencent par le mot "MAYDAY",</li>
+										<li>Dans le message : MAYDAY (répété 3 fois) + Nom du bateau / Indicatif (répété 3 fois) + Position du navire + nature de la détresse + nombre de personnes à bord + secours demandé + "A VOUS"</li>
+									</ul>
+								</li>
+								<li>Message d'urgence
+									<ul>
+										<li>Ils sont de priorité 2 et commencent par le mot "PAN PAN",</li>
+										<li>Dans le message : PAN (répété 3 fois) + Nom du bateau / Indicatif (répété 3 fois) + Position du navire + nature de l'urgence + nombre de personnes à bord + secours demandé + "A VOUS"</li>
+									</ul>					
+								</li>
+								<li>Message de sécurité
+									<ul>
+										<li>Ils sont de priorité 3 et commencent par le mot "SECURITE",</li>
+										<li>Dans le message : SECURITE (répété 3 fois) + A TOUS ICI (répété 3 fois) + Texte du message + Quoi + Quand + Ou + "A VOUS"</li>
+									</ul>					
+								</li>
+								<li>Relayer un message de détresse
+									<ul>
+										<li>Ils sont de priorité absolue et commencent par le mot "MAYDAY RELAY",</li>
+										<li>Dans le message : MAYDAY RELAY (répété 3 fois) + Nom du bateau / Indicatif (répété 3 fois) + Position du navire + nature de la détresse + nombre de personnes à bord + secours demandé + "A VOUS"</li>
+										<li>Attendre ensuite la réponse du CROSS et se diriger vers le navire en difficulté</li>
+									</ul>					
+								</li>
+
+								<li>Utilisation du canal 16
+								<br>Il permet :  
+									<ul>
+										<li>d'écouter et/ou de passer les messages de détresse (priorité 1),</li>
+										<li>d'écouter les BMS,</li>
+										<li>de prendre contact avec un autre navire,</li>
+										<li>Il est interdit de converser trop longtemps sur ce canal et passer sur un canal de dégagement (6,8,72,77) pour tout ce qui est communication de routine</li> 
+									</ul>
+								</li>
+								<li>Protection des fréquences de détresse
+								<br> Bonnes pratiques : 
+									<ul>
+										<li>Utilisation du canal 16 et des canaux de dégagement,</li>
+										<li>Ne jamais utiliser à terre</li>
+									</ul>
+								</li>
+								<li>Tester l'équipement VHF : 
+									<ul>
+										<li>En phonie: Canal 16, faire un test rapide. Pour annuler un message, indiquer "Annuler mon message" dans la construction du message général</li>
+										<li>En ASN, ne jamais utiliser le canal 70 pour faire un test => utiliser la fonction "TEST" dédiée. Pour annuler, utiliser la fonction "Annuler" dédiée.</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>				
+				</div>
+			</div>
+						
+</ul>
+
+</main>
+<footer></footer>
+
+</div> <!-- class = container -->
+</body>
+</html>

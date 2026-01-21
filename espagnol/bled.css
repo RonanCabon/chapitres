@@ -1,0 +1,40 @@
+.bled-traduction-fr {
+	margin-right: 1rem;
+}
+
+.bled-traduction-es {
+	font-style: italic;
+}
+
+.bled__sample-block--bgcolor {
+	background-color: grey;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+}
+
+.card_body__no-padding-top {
+	padding-top: 0;
+}
+
+.card-body__child {
+	flex:1!important;
+}
+
+.bled-italic {
+	font-style: italic;	
+}
+
+.bled__test--important {
+	color: red;
+}
+
+.bled__test--info {
+	color: green;
+}
+
+div.bled__sticky--buttons {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 2rem;
+  z-index:1;
+}

@@ -1,0 +1,32 @@
+.point-etude {
+margin-right: 1rem;
+}
+
+.point-a-retenir {
+font-style: italic;
+}
+
+.bateau__sample-block--bgcolor {
+background-color: grey;
+margin-bottom: 1rem;
+margin-top: 1rem;
+}
+
+.card_body__no-padding-top {
+padding-top: 0;
+}
+
+.bateau-italic {
+font-style: italic;
+}
+
+.bateau__blk--important {
+color: #C70039;
+}
+
+div.bateau__sticky--buttons {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 2rem;
+  z-index:1;
+}

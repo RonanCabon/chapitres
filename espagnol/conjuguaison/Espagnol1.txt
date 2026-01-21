@@ -1,0 +1,254 @@
+*******************************************
+*******************************************
+******* Apprentissage de l'espagnol *******
+*******************************************
+*******************************************
+
+**********************************************************************************************
+**********************************************************************************************
+******* Axe 1 : pronoms personnels / Auxillaires être et avoir / temps et conjuguaison *******
+**********************************************************************************************
+**********************************************************************************************
+
+**********************************
+******* Pronoms personnels ******* 
+**********************************
+
+Sources:  
+Cahier 1 p 3,bescherelle p53-56, Bled Espagnol p34
+
+Yo	
+Tu					
+El/Ella/Usted			
+Nosotros/Nosotras		
+Vosotros/Vosotras		
+Ellos/Ellas/Ustedes		
+
+Notes :
+
+1/ Les pronoms personnels ne sont pas obligatoires, la conjuguaison du verbe permet à elle seule de déterminer le pronom personnel. Ils peuvent cependant permettre de lever une 
+	ambiguité ou de marquer une forme d'insistance,
+2/ En amérique du sud, on utilise souvent ustedes à la place de vosotros
+3/ Utilisation avec la préposition "con", pour le "je" et le "tu" on utilise "conmigo", "contigo" et avec le les autres personnes, le pronom personnel simple, ex: con el, ...
+4/ avec les prépositions segun, entre et hasta, on emploie le pronom personnel 
+	Selon toi : Segun tu, On le fera à nous deux : Lo haremos entre tu y yo, même moi je sais ça : Eso hasta yo lo sé
+
+*************************************************************
+******* Auxillaires être et avoir : Comment choisir ? ******* 
+*************************************************************
+
+Sources:
+bescherelle p 386 et 388
+Guide du routard XV et XVI
+SER/ESTAR (Vocable 711 p 18)
+Cahier 1 p 39
+Vocable espagnol quiz & jeux p 22
+
+SER : Etat permanent :	origine/nationalité/profession/date & heure/traits de caractères / propriété / nature,  ... 
+ESTAR  : Etat provisoire / passager :	situation géographique / position / état physique / fonction / résultat d'une action, ...
+
+*************************************
+******* Temps et conjuguaison *******
+*************************************
+
+******************************
+**** Les temps du présent **** 
+******************************
+
+******* Présent de l'indicatif *******
+
+Sources:  
+Cahier 1 p 3-4-5, bescherelle p 76, fiche notes p 1
+
+=> 3 groupes de verbes : AR/ER/IR
+	AR :	1er groupe - hablar/viajar/trabajar
+				verbe, on retire le suffixe AR => o, as, a, amos, ais, an
+	ER :	2ème groupe - comer/beber
+				verbe, on retire le suffixe ER => o, es, e, emos, eis en	
+	IR :	3ème groupe - venir/vivir/escribir
+				verbe, on retire le suffixe IR => o, es, e, imos, is, en
+
+=> Verbes irréguliers :
+	- diptango (e->ie, o->ue, u->ue) ex: jugar
+	- combio de vocal : e->i ex: querer (aimer/vouloir), preferir, dormir ex: quiero
+	- irréguliers à la 1ère personne du singulier ex: estar (estoy), saber (sé), dar (doy), hacer (hago), tener (tengo), ...
+		+ verbes se terminant par acer, ocer, ecer, ucir ex: parecer (parezco), ...
+
+=> Les verbes pronominaux (Vocable 711 p 19) / constructions réfléchies
+ex: llamarse / levantares, ... (me/te/se/nos/os/se)
+Quand le COD/COI et le sujet se réfèrent à la même personne
+	=> Claudia se présente dans ses tableaux : Claudia se pinta en sus cuadros
+	=> Claudia se maquille les lèvres : Claudia se pinta los labios
+	
+******* Présent progressif être en train de / continuer à (estar + gerundio / seguir + gerundio)  *******
+
+Sources:
+Cahier 1 p 20 et 21
+fiche notes p3 et p 6 (dos)
+Cahier 2 p 68 et 72
+Cahier 3 p 16 et 17
+
+=> GERUNDIO : AR => ANDO, ER/IR => IENDO 
+estar + gerundio / seguir + gerundio => action en cours / action en développement
+
+Attention !!! pour certains verbes avec préposition => verbe + préposition + infinitivo :
+continuer à : volver a + infinitivo, arrêter de : dejar de + infinitivo, commencer à : acabar de + infinitivo, terminer de : terminar de + infinitivo
+
+******* Présent du subjonctif (el presente de subjuntivo) *******
+
+Le subjonctif est le mode de la subordination et s'emploie pour exprimer une dépendance entre 2 actions/faits possibles qui expriment :
+- un désir Ojalà + subjonctif : Pourvu que, 
+- un souhait desear que / querer que + subjonctif, 
+- la défense no + subjonctif (No halgan huego : ne faîtes pas la grève),
+- une condition, 
+- un doute j'ai peur que l'enfant soit malade : temo que el nino esté enfermo, 
+- une appréciation, 
+- une hypothèse
+
+verbes du 1er groupe (AR) ex : estudiar => é, es, e emos, eis, en (terminaisons du présent de l'indicatif des verbes du 2ème groupe- sauf le je  o --> é)
+verbes du 2ème et 3ème groupe ex: comer, escribir => a ,as ,a , amos, ais, an (terminaisons du présent de l'indicatif des verbes du 1er groupe sauf le je  o --> a)
+
+Les verbes irréguliers : saber (sepa, sepas, sepa, ...), ser (sea, seas, sea, ...), ir (vaya, vayas, vaya, ...), estar (esté, estés, esté, ...), ...
+Les verbes avec diptongos garde la diptongo 
+Les verbes irréguliers à la 1ère personne du singulier au présent restent irréguliers : hacer (haga), tener (tenga), pedir (pida), ...
+
+****************************
+**** Les temps du passé ****
+****************************
+
+Sources : 
+Cahier 2 p 23 et 26 et 52 et 37/ Cahier 3 p 39
+Cahier 2 p 18 et p26
+Cahier 1 p 24, fiche notes p3 et p6
+Cahier 2 p 29 et 46 et 51-52 et 64
+Cahier 3 p 25 et 26
+
+Important !!! Quand utilise-t-on le Preterito perfecto (passé composé), quand le Preterito indefinido (passé simple) et quand l'imparfait (preterito imperfecto) ???
+
+=> On utilise le Preterito perfecto (passé composé) pour exprimer une action achevée dans le passé en lien avec le moment où l'on parle parce qu'elle se situe dans une unité de temps 
+non révolue.
+Utilisation avec : Esta manana, ultimamente, ya/aun, este mes, ...
+
+=> On utilise le Preterito indefinido (passé simple) pour parler de faits ponctuels dans le passé dont l'unité de temps est révolue. Evénements passés avec des dates, ex: biographie.
+Utilisation avec: Ayer, el ano pasado, anoche, las vacaciones pasadas, aquel, ese mes, hace dos anos, ...
+
+=> On utilise le Preterito imperfecto (imparfait) pour décrire des habitudes, des coutumes, des circonstances, des faits qui durent dans le passé ou une histoire dans le passé en mode 
+narratif. L'imparfait présente des événements antérieurs au moment où l'on parle, sans référence à leur fin, au temps (dates) , action terminée ou non.
+
+Note : Action longue dans le passé (preterito imperfecto), interromptue par une action courte (preterito indefinido) - Concordance des temps
+
+******* Preterito perfecto (passé composé)*******
+
+Construction : Presente de haber + participio
+				=> haber (hé, has, ha, hemos, habeis, han)
+				=> participio : AR -> ado, ER/IR -> ido
+
+******* Preterito indefinido (passé simple) *******
+
+AR (ex: Hablar)		Habl é/aste/o/amos/asteis/aron
+ER (ex: nacer)		Nac  i/iste/io/imos/isteis/ieron
+IR (ex: escribir)	Escrib i/iste/io/imos/isteis/ieron
+
+Verbes irréguliers :
+	- estar : estuve, estuviste, estuvo, estuvimos, estuvisteis, estuvieron
+	- ir/ser : fui, fuieste, fue, fuimos, fuisteis, fueron
+
+******* Preterito imperfecto (imparfait) *******
+
+AR (ex: Estar)		Est aba/abas/abaa/abamos/abais/aban
+ER (ex: Tener)		Ten ia/ias/ia/iamos/iais/ian
+IR (ex: Vivir)		Viv ia/ias/ia/iamos/iais/ian
+
+Verbes irréguliers :
+	- ser : era, eras, era, eramos, erais, eran
+	- ir : iba, ibas, iba, ibamos, ibais, iban
+	- ver : veia, veias, veia, veiamos, veiais, veian
+	
+Note :	estar à l'imparfait + gerundio (était en train de ) pour présenter une action passée en cours de déroulement
+		Justement, on parlait de lui quand il est arrivé : Justamente estabamos hablando de el cuando llego
+
+******* Preterito pluscuamperfecto (plus que parfait) *******
+
+On utilise le preterito pluscuamperfecto pour parler de 2 actions dans le passé avec une antérieure à l'autre
+ex: Cuando llegamos (passé simple) al hotel, no habian cenado (preterito pluscuamperfecto)
+
+--> construction : preterito imperfecto de haber (habia/habias/habia/habiamos/habiais/habian) + participio (ado/ido)
+
+****************************
+**** Les temps du futur ****
+****************************
+
+******* Futur proche - futuro proximo (ir a + infinitif) *******
+
+Sources : 
+verbe ir - Bescherelle p 405 
+fiche notes p3
+Cahier 1 p 21
+Cahier 2 p 38
+
+--> utilisation : action qui est sur le point de se faire
+
+--> construction : IR A (voy, vas, va, vamos, vais, van) + A + infinitivo
+
+******* Futur simple - el futuro / el futuro simple *******
+
+Sources : 
+Cahier 1 p 36
+fiche notes p 6 (dos)
+cahier 2 p 89 et 91
+
+--> construction : On garde l'infinitif complet du verbe (infinitivo) + é/as/a/emos/eis/an (pour les 3 groupes de verbes AR/ER/IR)
+
+verbes irréguliers (12 verbes) :	decir (diré, diras) - dire, hacer  (haré, haras) - faire, haber (habré, habras) avoir (auxilliaire), 
+									poder (podré, podras) - pouvoir, poner (pondré, pondras) - mettre, caber (cabré, cabras) - contenir, 
+									querer (querré, querras) - vouloir, saber (sabré, sabras) - savoir, valer (valdré, valdras) - valoir, 
+									salir (saldré, saldras) - partir, venir (vendré, vendras) - venir, tener (tendré, tendras) - avoir/posséder.
+
+****************************
+******* Conditionnel *******
+****************************
+
+Sources :  
+Cahier 2 p 41
+Cahier 3 p 34
+
+--> utilisation :
+	- exprimer une action future en relation avec le passé,
+	- doute/probabilité dans un contexte passé,
+	- atténuer une demande ou un conseil,
+	- la politesse,
+	- expression d'un souhait dans le présent
+
+--> construction : On garde l'infinitif complet du verbe (infinitivo) + terminaison verbes ER/IR à l'imparfait (ia/ias/ia/iamos/iais/ian) => pour les 3 groupes de verbes AR/ER/IR 
+	
+*************************
+******* Impératif *******
+*************************
+
+Sources : 
+Cahier 2 p 46
+Cahier 3 p 15
+
+Attention !!! les pronoms personnels utilisés sont : tu, vosotros(as), usted(es)
+
+-> construction 
+	verbes du 1er groupe AR : on retire le suffixe AR + a (pour le tu), ad (pour le vosotros/vosotras, e (pur le usted), en (pour le ustedes)
+	verbes du 1er groupe ER : on retire le suffixe ER + e (pour le tu), ed (pour le vosotros/vosotras, a (pur le usted), an (pour le ustedes)
+	verbes du 1er groupe IR : on retire le suffixe IR + e (pour le tu), id (pour le vosotros/vosotras, a (pur le usted), an (pour le ustedes)
+	
+Notes : 
+	- Pour le "tu" c'est comme au présent mais sans le "s",
+	- verbes irréguliers : poner (pon), venir (ven), hacer (haz), decir (di), salir (sal), ser (sé), tener (ten), ir (ve)
+
+*** Imperativo negativo ***
+
+-> construction 
+	verbes du 1er groupe AR : NO + on retire le suffixe AR + es (pour le tu), eis (pour le vosotros/vosotras, e (pur le usted), en (pour le ustedes)
+	verbes du 1er groupe ER : NO + on retire le suffixe ER + as (pour le tu), ais (pour le vosotros/vosotras, a (pur le usted), an (pour le ustedes)
+	verbes du 1er groupe IR : NO + on retire le suffixe IR + as (pour le tu), ais(pour le vosotros/vosotras, a (pur le usted), an (pour le ustedes)
+
+
+	
+
+
+ 

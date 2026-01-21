@@ -1,0 +1,51 @@
+***********************************
+*** La familia / se componer de ***
+***********************************
+
+	Le père							El padre
+	La mère							La madre
+	Le fils / la fille				hijo(a)
+	Le frère / la soeur				hermano(a)
+	Le mari							El marido / un homme	un hombre
+	La femme						La mujer
+	Le neveu/ la nièce				sobrino(a)
+	L'oncle/ la tante				tio(a)
+	Le cousin / la cousine			primo(a)
+	Le grand-père / la gran-mère	abuelo(a)
+
+*******************
+*** Salutations ***
+*******************
+
+	Hola					Bonjour
+
+	Buenos días				Bonjour (le matin)
+	Buenas tardes			Bon après-midi
+	Buenas noches			Bonsoir / Bonne nuit
+
+Encantado/a de conocerte	Enchanté(e) de te rencontrer
+
+*********************************
+*** Informations personnelles ***
+*********************************
+
+	Me llamo...				Je m'appelle...
+	Soy de...				Je viens de...
+	Tengo... años			J'ai... ans
+	Vivo en...				J'habite à...
+	Trabajo como...			Je travaille comme...
+	
+Détails supplémentaires
+	Mis hobbies son...		Mes loisirs sont...
+	Me gusta...				J'aime...
+	Tengo una mascota		J'ai un animal de compagnie
+	Estudio en...			J'étudie à...
+	¿Y tú?					Et toi ?
+	¿Cómo te llamas?		Comment t'appelles-tu ?
+	¿Cuántos años tienes?	Quel âge as-tu ?
+
+Exemples de présentation
+Exemple 1 :
+"Hola, me llamo Ana. Soy de Francia y tengo 25 años. Vivo en Madrid y trabajo como profesora. Mis hobbies son la lectura y el senderismo. Encantada de conocerte."
+Exemple 2 :
+"Buenos días, soy Carlos. Tengo 30 años y soy de México. Estudio en la universidad y me gusta jugar al fútbol. ¿Y tú, cómo te llamas?"

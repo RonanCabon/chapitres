@@ -1,0 +1,71 @@
+Programme revision espagnol 
+
+1/ OK - Traitement des notes du cahier bleu 1 + cahier 2 + cahier 3 
+2/ Reprendre toutes les notes du point 1/
+
+********************
+*** CONJUGUAISON ***
+********************
+ 
+C:\Users\FR16823\OneDrive - iCloud Drive\espagnol\conjugaison
+
+- HTML : SER/ESTAR
+- HTML : BledEspagnol_conjuguaison
+
+- TXT : programme_revision_conjugaison.txt
+		=> reprendre les éléments de Espagnol1.txt
+
+***** Programme de révision : Espagnol1.txt
+
+*****************
+*** GRAMMAIRE ***
+*****************
+
+C:\Users\FR16823\OneDrive - iCloud Drive\espagnol\grammaire
+
+- HTML : Bledespagnol_grammaire.html
+
+- TXT : programme_revision_grammaire.txt
+		=> reprendre les éléments de Espagnol2.txt
+
+***** Programmme de révision : Bledespagnol_grammaire.html + Espagnol2.txt
+
+**************************************
+*** VOCABULAIRE / EXPRESSION ORALE *** Discussion du quotidien
+**************************************
+
+C:\Users\FR16823\OneDrive - iCloud Drive\espagnol\vocabulaire-expression-orale
+
+- HTML : BledEspagnol_vocabulaire.html 
+
+- TXT : programme_revision_vocabulaire.txt
+		=> reprendre les éléments de Espagnol4.txt
+		=> reprendre les éléments de duolingo.txt
+		
+		=> + tous les espagnol_voc_xxx.txt
+		=> + fiches pastifiées Espagnol - conversation
+		
+***************************************************
+*** EXPRESSION ECRITE / COMPREHENSION DE TEXTES ***
+***************************************************
+
+C:\Users\FR16823\OneDrive - iCloud Drive\espagnol\expression-ecrite
+
+- TXT : programme_revision_expression_ecrite.txt
+		=> reprendre les éléments de Espagnol3.txt
+		
+*******************************		
+*** A MAITRISER EN PRIORITE ***
+*******************************
+
+* Adverbes de lieu  => BledEspagnol_grammaire.html
+* Adverbes de temps => BledEspagnol_grammaire.html
+La frequencia et en général Espagnol2.txt + Espagnol4.txt
+espagnol_voc_se presenter.txt
+espagnol_voc_demander_information.txt
+espagnol_voc_au_restaurant.txt (restaurant, hotel)
+Savoir demander une direction, des informations de voyage (bus, avion, à l'hôtel, ...)
+
+
+
+	

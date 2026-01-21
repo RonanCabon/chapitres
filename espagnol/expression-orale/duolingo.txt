@@ -1,0 +1,1863 @@
+******************************
+**** Vocabulaire DUOLINGO ****
+******************************
+
+**********************
+*** Les sentiments ***
+**********************
+
+Je suis désolé		Lo siento
+Enchanté			Mucho gusto
+Excusez moi			Disculperme
+
+*******************
+*** Les animaux ***
+*******************
+
+Le chien 			El perro
+Le chat 			El gato
+La patte 			La pata
+Le cheval 			El caballo
+Le canard			El pato
+Le cochon			El cerdo
+Le crabe			El cangrejo
+Le singe 			El mono
+La souris 			El raton
+Le lapin 			El conejo
+Le manchot			El pinguino
+L'ours				El oso
+
+*********************
+*** Les vêtements ***
+*********************
+
+Le pantalon			El pantalon
+Une chemise 		Una camisa
+Des chaussures		Los zapatos 
+Des chaussettes		Los calcetines
+Un teeshirt			Una camiseta
+Un chapeau			Un sombrero
+Une veste			Una chaqueta
+Une cravate			Una corbata
+Un costume			Un traje
+Une jupe			Una falda
+La robe 			El vestido
+Les vêtements 		La ropa
+Le Manteau			El abrigo
+Une ceinture		Un cinturon
+
+************************
+*** Faire des achats ***
+************************
+
+Faire des courses	Ir de compras
+Acheter				Comprar
+
+********************
+*** Les couleurs ***
+********************
+
+Blanc				Blanco/blanca
+Noir				Negro/Negra
+Bleu				Azul
+Jaune				Amarillo
+Orange				Naranja
+Vert				Verde
+Rouge				Rojo
+
+******************
+*** Les verbes ***
+******************
+
+Entendre/percevoir	oir
+Entendre/écouter	escuchar
+Marcher				caminar
+Boire				beber/tomar
+Finir				acabar
+Peser				pesar
+Porter				llevar
+Continuer			siguar
+Trouver				encuentrar
+Toucher				tocar
+Accuser				culpar
+Descendre			bajar
+Gouter				pruebar
+Chercher			buscar
+Se rappeler			recuerdar
+Signer				firmar
+
+******************
+*** La famille ***
+******************
+
+Le père						El padre
+La mère						La madre
+La femme 					La mujer
+Épouse 						La esposa
+Frère/soeur 				El hermano / la hermana
+Oncle / tante 				tio / tia
+Fils/fille 					hijo / hija
+Grand-père / grand mère		abuelo / abuela
+Petit ami / petite amie 	novio / novia
+Mari 						El marido
+Cousin / cousine 			primo / prima
+Les grands frères			Los hermanos mayores
+Mes petites soeurs			Mis hermanas menores
+
+*******************************
+*** Adverbes / prépositions ***
+*******************************
+
+Parmi/entre												Entre
+Sur 													Sobre
+Vers													Hacia
+Nous allons de l'avant									Vamos hacia adelante 
+A propos de 											Acerca / es acerca de
+Le livre est à propos d'un cheval						El libro es acerca de un caballo
+Sous													Bajo
+C'est bas												Es bajo
+Près de 												Cerca / esta cerca
+La frontière est prêt d'ici								La frontera esta cerca de aqui
+Selon													Segun
+Sans													Sin
+Ce n’est pas du vin mais de l’eau						No es vino sino agua 
+Je parle au téléphone avec maman						Hablo por el telefono con mi mama
+Mon père n'est pas grand mais c'est un grand homme		Mi padre no es alto pero es un gran hombre
+A propos 												A proposito
+J'aime ma maman											Quiero a mi mama
+Je parle au téléphone									Hablo por telefono
+Je regarde par la fenêtre								Miro por la ventana
+Pour la soupe 											Para la sopa (por/para)
+Une fois par jour										Una vez al dia
+Je connais votre papa									Conozco a su padre
+Je compte sur vous										Cuento con usted 
+Lui, il vient tous les jours							El viene todos los dias
+Certaines jupes sont bleues								Algunas faldas son azules
+Elle, elle n'a aucun frère								Ella no tiene ningun hermano
+Aucune													ninguna
+Moi aussi												Yo tambien
+Je ne bois jamais de bière								Jamas bebo cerveza
+Moi non plus											Yo tampoco
+Il y a quelques années									Hace unos cuantos anos
+Il y a environ un an									Hace alrededor de un ano 
+Il y a environ un mois									Hace alrededor de un mes 
+A n'importe quelle heure								Al calquier hora
+C'est ainsi												Es asi
+Qu'avez vous d'autre ?									Que mas tiene ?
+Nous sommes déjà en juin								Ya estamos en junio 
+Et après												Y despuès 
+Tu es encore jeune										Todovia eres joven 
+Presque													Casi 
+Et alors												Y entonces 
+Je lis autant que toi									Leo tanto como tu 
+C'est trop												Es demasiado
+Peut-être un jour										Quiza un dia 
+Bien sur 												por supuesto
+Bien sur que non 										Por supuesto que no 
+Lui, il est encore au lit								El aun esta en cama 
+Lui, il lit autant que moi								el lee tanto como yo 
+Moi non plus											Yo tampoco 
+Il n'est pas encore ici 								Aun no esta aqui 
+Nous sommes déjà en juin 								Ya estamos en junio 
+Elle, elle vient ensuite								Ella viene luego 
+Parce que												Porque 
+Pourquoi ? parce que ! 									Por qué ? porque si ! 
+Quand 													Cuando 
+Pendant que / Alors que									Mientras 			 										 
+
+*******************************************************************************
+*** Jours de la semaine moments de la journée, mois de l'année, les saisons ***
+*******************************************************************************
+
+*** Jours de la semaine ***
+
+Lunes Martes Miercoles Jueves Viernes Sabado Domingo
+
+Demain 									Manana
+Hier 									Ayer
+Aujourd’hui 							Hoy
+Le soir 								Por la noche
+Hier soir 								Anoche
+Le matin 								La manana
+Demain matin							Manana por la manana
+Bonne nuit 								buenas noches
+À demain 								hasta manana
+Que fais tu pour le dîner 				Que haces para la cena
+A l’aube 								En la madrugada
+À midi 									Al mediodia
+Le matin 								Por la manana
+Bonne journée							Buen dia
+L'après-midi							La tarde
+Bon après-midi							Buenas tardes
+		
+*** les mois de l’année ***
+
+Enero, Febrero, marzo, abril,mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre
+
+*** Les saisons (estaciones) ***
+
+La saison / période 					La temporada
+
+El otono, El invierno , la primavera, El verano
+
+*** Le temps / heure ***
+
+Une seconde								Un segundo
+Une minute 								Un minuto
+Un moment 								Un rato
+
+Un rendez-vous							Una cita
+
+*** Repas de la journée ***
+
+Un calendrier 	un calendario
+Le déjeuner 	El almuerzo
+Le dîner 		la cena
+Le repas 		La comida
+
+Un sandwich		El bocadillo / el emparedado
+
+****************************************************
+*** pièces de la maison / meubles / la vaisselle ***
+****************************************************
+
+*** pièces ***
+
+Une cave 				Un sotano
+El Piso 				Le sol / l’étage
+Une chambre 			Una habitacion
+Le bureau				(lieu de travail) oficina / (meuble) La mesa / el escritorio 
+La chambre 				El cuarto 
+La cour 				El patio
+
+*** meubles *** 
+
+Les chaises				las sillas
+La table 				la mesa
+L’escalier 				La escalera
+La télévision 			La télévision
+Le canapé 				El sofa
+La lampe 				La lampara
+Un lit 					Una cama
+Un téléphone 			Un telefono
+La fenêtre				La ventana
+Un berceau				Una Cuna
+La piscine				La piscina
+Un bureau 				Un escritorio
+Une porte 				Una puerta
+Un miroir 				Un espejo
+Le lit 					El dormitorio
+
+*** vaisselle ***
+
+Un verre 				Un vaso
+La cuillère				La cuchara
+Un couteau 				Un cuchillo
+La fourchette 			El tenedor
+Les assiettes 			Los platos
+Les poêles 				sartenes / la sarten
+Un four					Un horno
+L’éponge 				La esponja
+Un refrigerador 		Un refregirateur
+des tasses				tazas / Une tasse : una taza
+La poêle				La sartene
+
+*** autres ***
+
+Un mur 					Una pared
+Le toit					El techo
+La brosse				El cepillo
+La machine à laver		La lavadora
+Les toilettes			El bano
+Le sèche linge			La secadora de ropa
+Un parapluie			Un Paraguas
+Le savon				El jabon
+Un portefeuille			Una cartera
+Le drap					La sabana
+Le rasoir				La rasuradora
+La brosse				El cepillo
+Un bain					Un bano
+Le portefeuille			La cartera
+Le linge				La ropa
+Un linge				Una sabana
+
+Je vais au lit											Voy a a la cama
+Avez vous une brosse ?									Tienen ustedes un cepillo
+
+***************************
+*** Parler de la taille ***
+***************************
+
+Grand grande / une grande robe 		un vestido grande
+De quelle taille 					de que tamano es
+C’est énorme 						es enorme
+Ton manteau est court 				tu abrigo es corto
+Je suis grand 						soy alto
+C'est long							Es largo
+C'est court							Es corto
+Je suis petite 						Soy baja
+Le chat est petit					El gato es pequeno
+grandes 							altas
+grosse								grande
+longues								largas
+
+La petite tomate					El tomatito
+çà a la taille d'un oeuf			Es del tamano de un huevo / Tiene el tamano de un huevo
+
+******************************************
+*** Les métiers / Discuter des métiers ***
+******************************************
+
+Etes-vous un avocat ?					Es usted abogado ?
+Non, je suis infirmier					No, soy enfermero
+Nous sommes serveurs					Somos meseros
+Mon fils es journaliste					Mi hijo es periodista
+La femme est entrepreneur				La mujuer es empresaria
+Mon oncle et ma tante sont docteurs		Mi tio y mi tia son doctores
+
+Le caissier								El cajero	
+Le peintre								El pintor
+Le plombier								El plomero
+L'employé								Un empleado
+Le fermier								El granjero
+La garde								La guardia
+Le gardien								El guarda
+Le capitaine							El capitan
+L'enseignant							El docente
+Le maître								El maestro
+Le chef									El jefe
+Le juge									El juez
+La police								La policia
+Le boulanger							El panadero
+Le soldat								El soldado
+Le cuisinier							El cocinero
+L'infirmier								El enfermero
+La propriétaire							La duena
+Le prêtre 								El sacerdote	
+Le conducteur							El conductor
+L'ingénieur								El ingeniero
+Le charpentier							La carpintera
+Un agent								Un agente
+Les policiers							Los policias
+Un acteur 								Un actor
+Des athlètes							Atletas	
+Le peintre								El pintor
+Une secrétaire							Una secretaria
+La juge 								La jueza
+Le travailleur							El trabajador 
+Les paysans								Los campesinos 
+Un enseignant							Un docente 
+ 
+****************************
+*** Exprimer son opinion ***
+****************************
+
+C'est un bon avocat						Es un buen abogado
+Ta cravate est jolie					Tu corbata es bonita
+La nourriture est bonne					La comida es buena
+Tu es une personne positive				Eres una persona positiva
+C'est possible							Es possible
+Non, ce n'est pas normal				No, no es normal
+Je suis populaire						Soy popular
+Mon frère n'est pas bilingue			Mi hermano no es bilingue
+Ta cravate est jolie					Tu corbata es bonita
+Ma soeur m'aime							Mi hermana me quiere
+C'est laid								Es feo
+C'est un vieux chien					Es un perro viejo	
+C'est utile								Es util
+C'est pire								Es peor
+C'est possible							Es posible
+Il va mieux								Esta mejor
+C'est important 						Es importante
+C'est vrai 								Es cierto
+C'est nécessaire						Es necesario
+Des robes différentes ?					Vestidos distintos ?
+Je suis capable							Soy capaz
+Elle est sûre							Es segura
+Ce sont des moments forts				Son momentos fuertes
+La tortue est seule						La tortuga esta sola
+Majeurs									principales
+Tant de légumes							Tantas verduras 														
+La nourriture est mauvaise				La comida esta mala
+J'ai mes propres chats					Tengo mis propios gatos
+Elles sont riches 						Son ricas
+Oui, mais c'est récent					Si, pero es reciente
+Je suis pauvre							Soy pobre
+La viande est chère						La carne es cara
+La jupe n'est pas chère					La falda es barata
+assez									suficiente
+dernières								ultimas
+Les animaux sont différents				Los animales son distintos
+Le pain est mauvaise					El pan es malo
+Un livre neuf							Un libro nuevo
+C'est un joli chapeau					Es un sombrero bonito
+Vos mères sont âgées					Sus madres son mayores
+
+*****************************************************
+*** Exprime toi au présent, décris ce que tu vois ***
+*****************************************************
+
+Elle, elle a un chat					Ella tiene un gato	
+Toi, tu ne parles pas espagnol			Tu, no hablas espanol
+Eux, il veulent un chien				Ellos, quieren un perro
+Lui et moi sommes cousins				El y yo somos primos
+Moi, je ne mange pas de viande			Yo no como carne
+Elle, elle dort							Ella duerme
+Lui, ce n'est pas mon cousin			El no es mi primo	
+Les animaux jouent						Los animales juegan	
+Le chien suit le chat					El perro sigue el gato
+Il ne reste pas de lait					No queda leche
+Oui, moi je sais						Si, yo sé
+Elle, elle les aide						Ella los ayuda		
+C'est toi								Eres tu
+Il n'y a plus de sel					No queda sal
+Je pense à mes enfants					Pienso en mis hijos	 
+La gare									La estacion
+Vous ne me rendez pas visite ?			No me visitan ?
+Etes-vous à la gare ?					Estan en la estacion ?
+Aujourd’hui nous sommes mercredi		Hoy estamos a miercoles
+Je rêve d'un cheval						Sueno con el caballo
+Septembre se termine					Septiembre se acaba
+Les chaussures ne tiennent pas			Los zapatos no caben
+Non, la couleur ne compte pas			No, el color no importa
+Toi, tu livres les repas				Tu entregas la comida
+Elle sent								Ella siente / huele
+Il requiert								El requiere
+Il arrive en juin						El llega in junio 
+Elle, elle ouvre une lettre				Ella abre una carta
+Je commence								Empiezo
+
+********************************************************
+*** Décrire ce que l'on voit / utiliser des adverbes ***
+********************************************************
+
+Moi, j'ai beaucoup de livres			Yo tengo muchos libros
+Ces éléphants sont bleus				estos elefantes son viejos
+Elle, elle parle beaucoup				Ella habla mucho
+ça va, merci							Estoy bien, gracias
+C'est maintenant ou jamais				Es ahora o nunca
+Je veux les 2 jupes						Quiero ambas faldas
+J'ai peu de livres						Yo tengo pocos libros 
+lui il mange lentement					El come despacio
+Assez ou trop							Bastante / demasiado
+C'est juste un enfant					es solo un nino 
+Elle, elle vient ensuite				Ella viene luego
+Je sais où elle est						Sé donde esta ella 
+Il n'est pas encore ici 				Aun no esta aqui
+Je ne mange pas autant que toi			No como tanto como tu
+Lui non plus, ne veut pas de viande		El tampoco quiere carne
+Il est presque rouge					Es casi rojo 
+Lui, il mange rapidement				El come despacio / rapidamente 
+A bientôt								Hasta pronto 
+Moi, je mange énormément				Yo como bastante
+Assez ou trop ?							Suficiente o demasiado ?
+J'ai seulement une chaussures			Tengo solamente un zapato 
+Je dors loin de vous					Duermo lejos de usted 
+Très récemment							Muy recientemente 
+Moi je mange à peine					Yo como apenas 
+Généralement la viande est rouge		Generalmente la carne es roja 
+Merci encore							Gracias nuevamente 
+C'est absolument impossible				es absolutamente imposible 
+C'est de nouveau l'été					Es verano nuevamente 
+Il est comme ton père, surement			Es como tu padre seguramente 
+Antérieurement							Anteriormente 
+A plus tard								Hasta mas tarde 
+Il y a environ un mois					Hace alrededor un mes 
+La chemise est courte					La camisa es corta 
+Nous sommes lundi						Estamos a lunes 
+Il est moins intelligent que moi		El es menos inteligente que yo 
+Moi aussi								Yo tambien
+Si c'est ainsi							Si, asi es 
+Je suis petit parce que je suis un enfant	Soy pequeno porque soy un nino 
+Je l'ai déjà dit						Ya lo tengo 
+C'est maintenant ou jamais				es ahora o nunca 
+Elle, elle mange seulement de la viande	Ella solo come carne 
+Seules les femmes boivent du thé		Solo las mujeres toman té 
+J'écoute car vous parlez				Escucho ya que hablan	 
+Je sais ou elle est						Sé donde esta ella 
+Elle, elle est encore plus belle		Ella es aun mas hermosa 
+A bientôt								Hasta pronto 
+Bien sur								Por supuesto 
+Lentement, s'il te plait				Lentamente / despacio por favor 
+Dors tu assez ? 						Duermes suficiente / bastante ? 
+Il boit trop ces jours-ci				Bebe demasiado por estos dias 
+Ils regardent autour					Miran alredador	
+Vraiment								Realmente / Muy 
+Loin de nous							Lejos de nosotros 
+Les femmes vont de l'avant				Las mujeres van adelante 
+Très loin								Muy lejos
+Je ne nage jamais						Jamas nado 
+Ils regardent autour					Miran alrededor 
+Merci vraiment							Gracias realmente 
+C'est seulement un enfant				Es solamente un nino 
+Egalement								Igualmente 
+Elle regarde dessous					Mira debajo 
+Simplement								Simplemente 
+C'est pratiquement impossible			Es practicamente imposible 
+Moi je mange à peine					Yo apenas como 
+Immédiatement							Immediamente 
+Très récemment							Muy recientemente 
+Oui parfaitement						si perfectamente 
+Normalement c'est possible				Normalmente es simple 
+C'est généralement orange				es generalmente naranja 
+Lui, il mange uniquement des pâtes		El unicamente come pasta 
+C'est principalement du sucre			es principalmente azucar 
+Il est approximativement aussi grand que toi 	Es aproximadamente tan grande como/que tu 
+Très récemment							Muy recientemente 
+Exactement								Exactemente 
+Définitivement							Definitivamente 
+Il marche rapidement					Camina rapidamente 
+Merci encore							Gracias nuevamente 
+C'est complètement vert 				Es completamente verde 
+Antérieurement							Anteriormente 
+Il lit facilement						Lee facilmente 
+Il mange lentement						Come lentamente 
+Pas nécessairement						No necesariamente 
+C'est principalement					es principalmente 
+Immédiatement							Immediatamente 
+Définitivement							Definitivamente 
+C'est possiblement pire					es possiblamente peor 
+C'est relativement simple				es relativamente simple 
+plus jeune naturellement				mas joven naturalmente 
+Je ne t'aime pas non plus				No te quiero tampoco 
+De plus									Ademas 
+Nous sommes déjà en juin 				ya estamos en junio 
+Trop									Demasiado 
+Il vient toujours à cette heure ci		Viene siempre a esta hora 
+Elle est presque aussi grande que vous	Es casi tan alta como usted 
+Celà est-il au moins possible ?			eso es al menos posible ?
+Je rêve trop							Sueno demasiado 
+J'ai quelques							tengo algunos / cuantos 
+Certaines jupes sont bleues				Ciertas faldas son azules 
+A quel moment ?							En que momento ? 
+Elle, elle n'a aucun frère				Ella no tiene ningun hermano 
+Laquelle ?								Cual de todas ? 
+Des chattes mangent						Unas gatas comen (dans le sens quelques) 
+A lui, je lui lis un livre				A el, le leo un libro 
+Ces animaux sont ceux de mon oncle		Esos animales son los de mi tio 
+Lui, il vient chaque jour				el viene cada dia 
+Elle, elle est tellement grande			Ella es tan grande 
+Lui, il mange donc je mange				El come, assi que come 
+Et ensuite /puis l'enfant mange			Y despues el nino come 
+Je mange avant							Yo como antes 
+Sa soeur est encore plus grande			Su hermana es todovia mas alta 
+Je n'ai qu'une minute					Solo tengo un minuto 
+C'est tout à fait impossible			es del todo imposible 
+Antérieurement							Anteriormente 
+Relativement							Relativamente 
+Tu parles autant que moi				Hablas tanto como yo 
+Qu'avez vous d'autre ? 					Qué mas tiene ? 
+Elle aussi dort ici						Ella tambien duerme aqui 
+Ma tante n'a plus de lait				Mi tia no tiene mas leche 
+Il regarde dessous						Mira debajo 
+Nous ne les avons jamais retrouvés		Nunca los encontramos 
+Sa soeur est encore plus grande			Su hermana es todovia mas alta 
+Le vin est forts						El vino esta fuerte 
+Est-il laid ?							Es feo ? 
+Il vient toujours à cette heure			Viene siempre a esta hora 
+
+*********************************************
+*** Décris des objets / Donne une raison ****
+*********************************************
+
+J'ai un nouveau vélo					Tengo une nueva bicicleta 
+Ce n'est pas un écran bleu 				No es una pantalla azul 
+Les bateaux sont rouges					Los barcos son rojos 
+Je mange quand je veux					Como cuando quiero 
+Pourquoi ? parce que !					Por qué ? porque si ! 
+Peut-être parce que je ne vois pas bien	Quizas porque no veo bien 
+Moi, je mange parce que lui il cuisine	Yo como porque el cocina 
+Un ordinateur							Una computadora 
+Une voiture								Un coche / auto 
+Un stylo bille							Un boligrafio 
+La balle								La bola
+Une bouteille							Una botella
+Un téléphone portable					un télefono celular 
+Un avion 								Un avion
+Des dollars								Dolares 
+Un stylo plume							Una pluma 
+les ciseaux								Las tijeras
+Une chaîne								Una cadena 
+De l'huile								Aceite 
+Un objet 								Un objeto	
+Un pont									Un puente 
+Une boîte								Una caja 
+L'appareil								El Apareto
+Le métro								El metro 
+La monnaie								La moneda 
+La machine								La maquina
+Une règle								Una regla 
+Des notes de musique					Notas musicales 
+Les armes								Las armas 
+Une cloche								Una campana 
+L'écran									La pantalla 
+La colonne								La columna 
+La poussière / poudre					El polvo 
+Le train								El tren	
+Une valise								Una maleta 
+Une montre	/ Une horloge				Un reloj 
+De l'argent								Dinero 
+Un bateau      							Un barco 
+Un appareil photo / caméra				Una camara 
+La pile									La bateria 
+La carte (bancaire)						La tarjeta 
+Sac à dos								Mochila 
+Un magazine								Una revista 
+La source								La fuente 
+Une page								Una pagina	
+Un sac									Una bolsa 
+Une photo								Una foto 
+Un moteur								Un motor 
+Les pièces								Las piezas 
+Le sucre en poudre						El azucar en polvo 
+Un drapeau								Una bandera 
+La roue									La rueda 
+Une liste								Una lista	
+Le pont									El puente 
+La boîte 								La caja
+Les bâteaux								Los barcos 
+Les journaux							Los diarios / periodicos 
+Les documents							Los documentos 
+Les pièces								Las piezas 
+
+Et que leur dis-je ?					Y que les digo ?
+Nous mangeons dans un moment			comemos en un rato
+Je ne trouve pas le couteau				No encuentro el cochillo
+La moto est jaune						La moto es amarilla
+Un radio								Un radio
+Ma carte est dans le bureau				Mi carta esta en la oficina 
+Des carte des crédit					Tarjetas de credito
+L'appareil								El aparato
+Alcool									Alcohol
+Des documents							Documentos
+Une pièce (monnaie/maison)				Una moneda / un pieza 
+Elle écoute la radio le matin			Escucha la radio por la manana 
+Une carte								Una mapa 
+
+********************************************************************
+*** Chapitre 2, unité 7 : Décris des personnes, parles de voyage ***
+********************************************************************
+
+La chaise est petite					La silla es pequena
+Le train est très rapide				El tren es muy rapido 
+Ma valise n'est pas si grande			Mi maleta no es tan grande 
+lui, il est pire						El es peor 
+Elle c'est ma soeur aînée				Ella es mi hermana mayor 
+Où est l'aéroport ?						Donde esta el aeropuerto ?
+C'est une avenue importante				Es un avenida importante 
+Les villes sont différentes				las ciudades son diferentes
+La capitale de l'Espagne est une grande ville	La capital de Espana es una gran ciudad 
+Où est la frontière ?					Donde esta la frontera 
+C'est moi								Soy yo 
+C'est toi								Eres tu 
+Ca va bien								Estoy bien 
+Je suis petit car je suis un enfant		Soy pequeno porque / ya que soy un nino 
+Les murs								Las paredes 
+Je descends les escaliers				Bajo las escaleras 
+Avec qui êtes vous ce soir ?			Con quien estan esta noche ?
+Nous sommes déjà en juin				Ya estamos en junio 
+Je suis petite							Soy baja 
+Il est avant sa femme					esta antes que su mujer 
+Lui, il est encore au lit 				El aun esta en cama 
+A n'importe quelle heure				en calquier hora 
+Je ne trouve pas le couteau				No encuentro el cochillo 
+A plus tard								Hasta luego
+Mais pas tout de suite					Pero no a hora mismo 
+Il y a environ un an 					Hace alrededor de un ano 
+Hier soir où à l'aube ?					Anoche o en la madrugada 
+Es-tu encore ici ?						Todovia estas aqui ?
+Celà est au moins possible				Eso es al menos posible 
+
+Un hôtel								Un hotel
+Une plage								Una playa 
+Un restaurant							Un restaurante 
+Une bibliothèque 						Una biblioteca 
+Un jardin								Un jardin 
+Un aéroport 							Un aeropuerto 
+Une rue 								Una calle 
+Un café									Un café 
+Une maison								Una casa 
+L'école									La escuela 
+Un château								Un castillo 
+Une ville								Una ciudad 
+L'université							La universidad 
+Le pays									El pais 
+Est-elle chez elle ?					Esta en su casa ?
+Ma place est ici 						Mi lugar es aqui 
+Une banque								Un banco 
+Une chambre								Un cuarto 
+La salle								La sala 
+La place								La plaza 
+La côte									La costa 
+La region 								La region 
+Le port 								El puerto 
+La communauté							La communidad 
+Un hôpital								Un hospital 
+La zone 								El aria 
+La nation 								La nacion 
+Le terrain 								El terrano 
+Le palais 								El palacio 
+L'institut								El instituto 
+Le département							El departamento 
+Une île									Una isla 
+Un édifice								Un edificio 
+Le musée								El museo 
+La prison 								La carcel 
+Un parc 								Un parque 
+Le quartier								El barrio 
+Le bureau								la oficina 
+Le territoire							El territorio 
+Les bâtiments							Los edificios 
+Le village								El pueblo  
+Une tour								Una torre 
+Le foyer								El hogar 
+le salon								El salon / La sala 
+La patrie								la patria 
+Le festival								El festival 
+L'exploitation agricole					La hacienda 
+la fontière								La frontera 
+La route								La carretera / La ruta 
+Un bar									El bar 
+la cour 								El patio 
+Le coin / l'angle						La esquina 
+La piste								la pista 
+Un recoin								Un rincon 
+L'avenue								La avenida 
+Le continent							El continente 
+L'ouest									El oeste 
+La colonie								La colonia 
+l'agence								La agencia 
+La galerie								La galeria 
+La capitale								La capital 
+La distance								La distancia 
+Il va jusqu'à chez elle					Va hasta la casa de ella 
+Je suis en vacances						Estoy de vacaciones 
+Ca va bien ?							Estas bien ? 
+Nous sommes lundi						Estamos a lunes 
+Vous, vous êtes des soldats professionnels Ustedes son soldados profesionales 
+La bibliothèque							la biblioteca 
+Où est le restaurant ?					Donde esta el restaurante ? 
+Je marche depuis l'aéroport				Camino desde el aeropuerto 
+Où sont les toilettes ?					Donde esta el bano ?
+Le continent							El continente	
+
+J'ai une maison sur la côte				Tengo una casa en la costa 
+La cour									El patio 
+L'institut								El instituto 
+Le foyer								El hogar 
+La table est dans le coin				La mesa esta en el rincon 
+Il revient dans le salon				Vuelve al salon 
+lui, il dort dans le salon				El duerme en la sala 
+Ce cheval court dans la rue				Ese caballo corre por la calle 
+La maison à l'angle						La casa en la esquina	
+
+**************************************************
+*** Parle de la société / Utilise des chiffres ***
+**************************************************
+
+La population est importante			la poblacion es importante 
+C'est ma culture						Es mi cultura 
+L'humanité est unique					La humanidad es unica 
+Ce n'est pas sa coutume					No es su costumbre 
+Moi j'ai 6 ans							Yo tengo seis anos 
+5 plus 3 font 8							Cinco mas tres son ocho 
+Combien fait 5 moins 3 ?				Cuanto es cinco menos tres ?
+5 moins 3 font 2						Cinco menos tres son dos 
+Ma maman a 4 frères						Mi mama tiene cuatro hermanos 
+L'édifice a 13 étages					El edificio tiene trece pisos 
+Oui monsieur							Si senor 
+Je suis témoin							Soy testigo 
+Les gens regardent 						La gente mira 
+Le mariage 								El matrimonio 
+La foire 								La feria 
+Le compagnon / camarade					El companero 
+La citoyenne							La ciudadana 
+L'audience								La audiencia
+La révolution							La revolucion 
+Est-ce ta partenaire/paire/couple ?		Es tu pajera ?
+Les adultes								Los adultos 
+La voisine								La vecina 
+Voici la lampe							Aqui esta la lampara 
+Le tourisme								El turismo 
+Le gentleman							El caballero 
+C'est un garçon							Es un chico 
+Les victimes							Las victimas 
+Les individus							Los individuos 
+La coûtume / L'habitude					La costumbre  / El habito
+L'ennemi								El enemigo 
+C'est juste								Es solo
+Elle, elle regarde les filles			Ella mira a las chicas 
+C'est un individu 						Es un individuo 
+Le journal								El periodico 
+Nous avons un témoin pour vous			tenemos un testigo para usted 
+Paul est toujours un gentleman			Paul es siempre un caballero 
+Ce n'est pas son habitude				No es su habito 
+Après le mariage						Despuès el matrimonio 
+Il est midi 							Son las doce 
+Les nombres 							Los numeros 
+Milliers								Miles 
+Lui, il paye le double					El paga el doble 
+La paire 								El par 
+La majorité								La mayoria 
+4 tonnes								Cuatro toneladas 
+Ceci est la moitié						Esto es la mitad 
+Il est déjà 11 heures 					Ya son las once 
+Il y a 50 ans 							Hace cincuenta anos 
+Il est 2 heures moins le quart 			es un cuarto para las dos 
+Oui madame								Si senora 
+Bonjour Monsieur						Buenos dias senor
+Es-tu maintenant un gentleman ?			Ahora eres un caballero ?
+
+**** Indication de l'heure 
+
+Il est 5h30								Son las cinco y treinta 
+Il est déjà 11h							Ya son las once
+Il est 2 heurs moins le quart			Es un cuarto para las dos 
+Il est 8h15								Son las ocho y cuarto
+
+Le 3ème de la saison					El tercero de la temporada
+Lui, il a des milliards de dollars		El tiene miles de milliones de dolares
+Le 3ème dimanche de juin 				El tercer domingo de junio 
+Ils font une bonne paire				Hacen un buen par
+
+*****************************************************
+*** Décris ce que tu manges / parles d'événements ***
+*****************************************************
+
+!!! Utilisation du pronom réfléchi devant le verbe !!! Cf. imprimé 
+
+Tu manges le poulet						Te comes el pollo
+Je mange une tomate						Me como un tomate 
+Nous mangeons le pain 					Nos comemos el pan 
+Elle, elle mange une orange				Ella se some una naranja 
+Les enfants mangent de la soupe			Los ninos se comen la sopa 
+Tes fils ont été chez moi				Tus hijos estuvieron en mi casa 
+Tu as parlé avec ma soeur				Hablaste con mi hermana 
+Qu'as tu bu ?							Que bebiste ?
+J'ai bu du jus de fraises				Bebi jugo de fresas 
+Elle, elle est arrivée seule			Ella llego sola 
+Il s'en va 								Se va 
+Rendez-vous en Octobre					Nos vemos en Octubre 
+Tu manges ta soupe						Te comes tu sopa 
+Tu essayes ta robe						Te pruebas un vestido 
+Le chat mange la souris					El gato se come el raton 
+Il ressemble à quoi ? 					A qué se parece ?
+moi je mange un pain 					Yo me como un pan 
+Je leur ressemble						Me les parezco a ellos 
+L'enfant ressemble plus à son père		El nino se parece mas a su padre 
+Nous restons 							Nos quedamos
+Nous nous voyons demain					Nos vemos manana 
+Je ne me sens pas bien					No me siento bien 
+Moi je pèse le double de toi 			Yo peso el doble que tu 
+Nous marchons sur la route				Caminamos por:en la carretera 
+Elles restent entre femmes				Se quedan entre mujeres 
+Fortement								Sumamente 
+L'ai je mangé ?							La comi ? 
+Elles m'ont parlé 						Ellas me hablaron 
+Où avez-vous mangé hier ?				Donde comieron ayer ?
+Nous avons aimé cet hôtel				Nos gusto este hotel 
+Ta soeur a bu de l'eau					Tu hermana bebio agua 
+Moi je suis allé au parce hier 			Yo fui al parque ayer 	 
+Pablo a été mon professeur				Pablo fue mi profesor 
+Quand as tu été sur ce bateau ?			Cuando estuviste en ese barco ? 
+Mes amis et moi avons mangés au restaurant	Mis amigos y yo comimos en el restaurante 
+ont bu									Bebieron 
+Il ne lui a pas plu						A ella no le gusto el 
+Je vous ai aimé 						Lo quise 
+Lui, il me l'a dit						El me lo dijo 
+Ils ont joué ensemble					Tocaron juntos	 
+Hier iln n'a pas plu					Ayer no llovio 
+Tu ne me l'as pas dit					No me lo dijiste 
+Où as tu entendu celà ?					Donde oiste eso ? 
+Il a aimé sa soeur						Quiso a su hermana 
+Où as tu vu cette radio ?	            Donde viste esa radio ? 
+Ma tante ne s'est pas vu dans un miroir Mi tia no se vio en un espejo 
+Je l'ai vu il y a peu					Lo vi hace poco 
+Qu'ai je eu ?							Qué tuvé ?
+Je l'ai déjà fait 						Ya lo hice 
+Elle, elle est arrivée seule			Ella llego sola 
+Elle m'a donné une chemise				Me dio una camisa 
+Quand as-tu fait celà ? 				Cuandi hiciste eso ? 
+Lui, il ne sait même pas				El ni siquiera sabe 
+Où est tu resté ?						En donde te quedaste ?
+Elle aeu 3 filles avec lui 				Tuvo tres hijas con el 
+Ceci est resré à sa place				Esto quedo en su lugar 	
+Moi je suis resté à la maison 			Yo me quedo en la casa 
+Eux ils ont laissé ceci à la porte		Ellos dejaron esto en la puerta 
+Je l'ai laissé sur la table 			Lo dejé en la mesa 
+J'ai mis celà							me puse eso 
+Elle a pris son livre					Tomo su libro 
+Le pire est déjà passé					Lo peor ya paso
+Il a expliqué son livre					El explico su libro 
+Toi tu es venu de l'hôtel				Tu viniste del hotel 
+Moi j'ai récemment mangé du poulet		Yo recien comi pollo 
+Eux ils ont commencé ceci 				Ellos comenzaron esto 
+A quelle heure êtes vous revenu hier soir ? 	A qué hora volvio anoche ? 
+Je suis venu après que tu es parti		Vine despuès que tu fuiste 
+Elle a essayé							Intento
+Je me suis décidé						Me decidi 
+Tu as essayé							Intentaste  
+Je n'ai pas commandé ceci 				No pedi eso 
+J'ai reçu votre lettre					Recibi su carta 
+Elle, elle a déjà 						Ellz ya decidio 
+Lui il ne m'a pas demandé				El no me pregunto 
+Elle a quitté ce pays					Salio de ese pais 
+Lui il a porté mon manteau 				El llevo mi abrigo 
+Je ne vous ai pas demandé 				No le pregunte a usted
+Moi j'ai regardé par la fenêtre			Yo miré por la ventana 
+Ils n'ont jamais voulu ma photo			Jamas quisieron mi foto
+Elle a déjà décidé						Ya decidio 
+Il ne lui a pas plu						A ella no le gusto el 
+Nous n'avons même pas une radio 		Ni siquiera tenemos un radio 
+Je vous ai aimé							Lo quisé 
+Je l'ai vu il y a peu					Lo vi hace poco 
+Est-ce que tu as un chien ?				Tuviste un perro ?
+Moi j'ai déjà décidé					Yo ya decidi 
+Je ne vous ai pas demandé				No le pregunte a usted 
+Elle, elle a regardé par la fenêtre		Ella miro por la ventana 
+Lui il ne sait même pas 				El ni siquiera sabe 
+J'ai mis celà 							Me puse eso 
+Il est venu après qu'elle est partie	Vino despuès ella fue / que se fue 
+Elle a essayé							Intento
+Je n'ai pas commandé ceci				No pedi esto 
+Elles ont commencé ceci 				Empezaron esto 
+J'ai été un bébé						Fui un bebe 
+Je l'ai laissé sur la table				Lo dije en la mesa 
+J'ai parlé à la mère il y a 7 jours		Hablé con mi madre hace siete dias 
+Il est arrivé après que je suis parti 	llego despus que me fui  
+Je suis sorti du bureau					Sali de la oficina 
+Ils m'ont tenu pour responsable			Me hicieron responsable 
+Où as tu entendu celà ? 				Donde oiste eso ? 
+Nous avons aimé cet hôtel				Nos gusto este hotel      
+
+***************************************
+*** Utiliser les pronoms possessifs ***
+***************************************
+
+Ce jus est à toi						Este jugo es tuyo
+Ce pull bleu est à moi					Ese suéter azul es mio 
+Ces livres ci sont à nous 				Estos libros son nuestros 
+Cette cravate ci est à moi 				Esta corbata es mia	
+C'est un ami à elle						Es un amigo suyo 
+Pablo est un ami à moi					Pablo es un amigo mio 
+Eux sont des amis à moi 				Ellos so amigos mios 
+Est-ce une amie à toi ?					Es una maiga tuya ?
+C'est une amie à elle					Es una amiga suya 
+Bois ton lait, mon fils					bebes tu leche, hijo mio 
+Lui, il a mis le livre sur la table		El puso el libro sobre la mesa 
+
+**************************************************
+*** Faire des commentaires, utilise les modaux ***
+**************************************************
+
+J'aime le thé							Me gusta el té 
+Il aime son travail						A el le gusta su trabajo 
+Il vit seul								Vive solo 
+Je n'aime pas l'école					No me gusta la escuela 
+Toi, tu ne réponds pas					Tu no me respondes 
+Que lui arrive-t-il ?					Qué le pasa ?
+Elles, elles vivent en Argentine		Ellas vien en Argentina 
+Moi, je veux manger						Yo quiero comer 
+Mon cousin veut être ingénieur			Mi primo quiere ser ingeniero 
+Elle ne peut pas dormir					No puede dormir 
+Toi tu peux travailler					Tu puedes trabajar 
+Peux tu fermer la porte ?				Puedes cerrar la puerta ? 
+Je doute								Dudo 
+Je me demande							Me pregunto 
+Nous devons de l'argent 				Debemos dinero 
+Ils nous doivent un poulet				Nos deben un pollo 
+L'homme demande du vin 					El hombre pide vino 
+J'aime les jupes						Me gustan las faldas 
+Moi je sauve mon voisin					Yo salvo a mi vecino 
+Nous sommes revenus très tard			Regresamos muy tarde 
+Je remplis la bouteille d'eau			Lleno la botella de agua
+Lui, il ne me demande jamais			El nunca me pregunta 
+Lui, il achète le pain avec une pièce	El compra el pan con una moneda 
+Il pleut ! 								Llueve ! 
+Elle, elle arrête						Ella para 
+Que possède-t-il ?						Qué posee ? 
+Moi, je ne le permets pas				Yo no lo permito 
+Eux, ils mélangent du jus et du lait	Ellos mezclan jugo y leche 
+La fête continue encore					La fiesta aun continua 
+D'accord ? 								Vale ?
+Je dépense de l'argent					Gasto dinero 
+Eux, ils nous considèrent comme leurs amis	Ellos nos consideran sus amigos 
+Quelques animaux vivent la nuit			Algunos animales viven de noche 
+Il roue vite							Maneja rapido 
+Elle, elle coupe du pain				Ella corta pan 
+Combien coûte-t-il ? 					Cuanto cuesta ? 
+Lui il comprend le livre 				El entiende el libro 
+Eux ils vainquent leurs ennemis			Ellos derrotan a sus ennemigos 
+La défaite								La derrota 
+Eux, ils ne conduisent jamais cette voiture	Ellos nunca manejan este coche 
+Je le refuse							Lo rechazo 
+ça te touche ?							Te afecta ?
+Me laisses-tu ici ? 					Me dejas aqui ?
+Où je les laisse ?						Donde los dejo 
+Lui il attrape son chapeau				El alcanza el sombrero 
+Le couteau atteint le mur				El cuchillo alcanza la pared 
+Il désire un bon repas					Desea una buena comida 
+Que lui arrive-t-il ? 					Qué le pasa ? 
+Moi je vole								Yo vuelo	
+Elles mettent des robes					Se ponen vestidos 
+Il perd son pantalon					Pierde su pantalon 
+Lui il consulte Luis					El consulta con Luis 
+Ne consultez-vous pas votre épouse ? 	Usted no consulta con su esposa ? 
+Lui, il termine son repas 				El termina su comida 
+Elle, elle marche						Ella anda 
+Je crois en lui							Créo en el 
+appartient								partenece 
+Je me repose							Descanso 
+Le stand de tir 						La galeria de tiro 
+Lui, il tombe de son cheval				El cae de su caballo 
+Elle, elle tourne						Ella gira 
+Vous me soignez							Usted me cura 
+Moi, je hais le café					Yo odio el café 
+Il croit mon fils						Le cree a mi hijo 
+Doutes-tu de moi ?						Tu me dudas ? 
+Nous nous levons						Nos levantamos 
+Eux ils appelent la police				Ellos llaman la policia 
+Je reviens dans 2 mois 					En dos meses regreso 
+Tu me plais								Me gustas 
+J'aime votre caméra						Me gusta tu camara de video 
+J'aime la soupe							Me gusta la sopa 
+Qu'ajoutes-tu ?							Qué anades ?
+Non, il ne pleut pas					No, no llueve 
+Pour mon fils ? 						Para mi hijo ? 
+Je continue depuis lors					Continuo desde entonces 
+Combien gagnes-tu par heure ? 			Cuanto ganas por hora ? 
+Le plat contient du riz					El plato contiene arroz 
+Que vaut mon manteau ?					Qué vale mi abrigo ?
+Lui, il me considère comme un ami 		El me considera un amigo 
+Elle, elle me considère comme son frère	Ella me considera su hermano 
+Ils ne me comprennent pas				No me entienden 
+Dix ans après la grande défaite			Diez anos despues de la gran derrota 
+Ceci intéresse beaucoup de gens			Esto interesa a mucha gente 
+L'animal intéresse les enfants			El animal les interesa a los ninos 
+La fille améliore sa lettre				La chica mejora su carta 
+J'observe Pedro							Observo a Pedro 
+Maintenant, il essaye ceci				Ahora, el intenta esto 
+Vous vous exprimez comme/tel un poète	usted se expresa como un poeta 
+Elle, elle s'exprime bien 				Ella se expresa bien 
+Moi, je n'utilise pas l'ordinateur		Yo no uso la computadora 
+Ma mère me traite comme un enfant		Mi madre me considera como a un nino 
+Lui, il ne traite pas bin Daniel		El no trata bien a Daniel 
+Elle me croit toujours					Todovia me cree 
+L'homme appelle sa femme				El hombre llama a su esposa 
+Comment s'appelle-t-il ? 				Como se llama ? 
+A qui dois-je penser ?					En quien debo pensar ?
+Peux-tu ouvrir la fenêtre ? 			Puedes abrir la ventana ?
+Moi, je veux rester ici					Yo me quiero quedar aqui
+Ceci doit rester entre nous				Esto tiene que quedar entre nosotros
+Je viens de finir une lettre			Acabo de terminar una carta 
+Il a du finir ce travail hier			Tuva que terminar ese trabajo ayer 
+Il faut qu'il ferme la fenêtre			Tiene que cerrar la ventana 
+Tes clés doivent être sur la table		Tus llaves deben de estar sobre la mesa 
+Ils ont commencé à le répéter vendredi	El viernes ellos lo empezaron a repetir 
+Je suis sur que tu as beaucoup plus à donner	Estoy seguro de que tienes mucho mas para dar 
+Quelle est ta question ? 				Cual es tu pregunta ? 
+La pomme de terre 						La papa / patata 
+Elle arrête								Ella para 
+Il pleut								Esta lluviendo ! 
+Est ce qu'il pleut encore ? 			Todovia llueve ?
+Eux ils ne savent pas où nous vivons	Ellos saben donde vivimos 
+Où vivez vous ?							Donde viven ustedes ? 
+C'est vraiment une jupe courte			Es realmente una falda corta 
+Eux, ils laissent leurs repas			Ellos dejan sus comidas 
+Il ne se passe rien 					No pasa nada 
+Le couteau atteint l'homme				El cuchillo alcanza al hombre 
+Je ne m'exprime pas bien 				Yo no me expreso bien 
+Lui il se lève 							El se levanta 
+Celà fait de la poussière				Eso leventa polvo 
+Il a besoin de moi 						Me necesita 
+Je hais mes voisins 					Odeo a mis vecinos 
+Lui, il soigne ma soeur					El cura a mi hermana 
+Lui, il travaille aussi pour la radio	El trabaja tambien para la radio 
+Certains auteurs aiment ce livres		A ciertos autores les gusta ese libro 
+Je lis car j'aime le livre				Leo, ya que me gusta el libro 
+Je vous demande 						Lo pido 
+Et si ils tombent du toit ? 			Y si se caen del techo ? 
+Durant la nuit, je me repose			Durante la noche, descanso 
+Le petit graçon jette la soupe par terre 	El nino tira la sopa en el piso 
+L'homme attend sa femme 				El hombre espera a su mujer 
+Lui, il sort 							El sale 
+Lui, il appelle son épouse 				El llama a su esposa 
+J'aime bien Ana 						Ana me cae bien 
+J'attends mes enfants 					Espero a mis hijos 
+Je dépense mon argent dans celà 		En eso gasto mi dinero 
+Ta tante le permet						tu tia lo permite 
+Il aime la boulangerie où je travaille	Le gusta la panaderia donde trabajo 
+Mon avion vole vers la France			Mi avion vuela hacia Francia 
+C'est mauvais pour l'humanité			Es malo para la humanidad 
+Sommes nous en couple ? 				Somos un pareja ? 
+Combien sont-ils sur le territoire ? 	Cuantos son en el territorio ? 
+Après le mariage 						Despuès del matrimonio 
+Mais la population reste très pauvre	Pero la poblacion queda muy pobre 
+Je suis ici seulement pour ça			Estoy aqui solamente par a eso 
+Comment être juste ? 					Como ser justo ? 
+Elle, elle vient de boire du vin 		Ella acaba beber vino 
+Ana semble être bien maintenant			Ana parece estar bien ahora 
+Dois-je dormir ? 						Debo dormir ? 
+Ils peuvent toujours					Siempre pueden 
+Je peux tout lire 						Lo puedo leer todo 
+Il sait au moins lire					El sabe al menos leer 
+Voir plus haut							Ver mas alto 
+Elle, elle n'a pas à travailler 		Ella no tiene que trabajar
+Ceci je ne peux pas te le donner 		Eso no te lo puedo dar 
+Tu dois le répéter tous les jours 		Lo tienes que repetir a diario 
+Elle, elle peut nous donner sa voiture	Ella nos puede dar su coche 
+Ma mère aimme beaucoup le thé 			A mi madre le gusta mucho el té 
+Elle, elle a un sac plein				Ella tiene una bolsa llena de eso 
+veux-tu être ma fiancée ? 				Quieres ser mi novia ? 
+Mon frère doit dormir 					Mi hermano debe de dormir 
+Peux-tu le répéter, s'il te plaît ? 	Lo puedes repetir por favor ? 
+En sortant de la station, j'ai vu une souris	Al salir de la estacion, vi un raton 
+Comment puis-je porter celà ? 			Como puedo llevar eso ? 
+Elle ne va jamais nager 				Ella jamas va a nadar 
+A qui dois-je penser ? 					En quien debo pensar ? 
+Lui, il a laissé tombé la caisse		El dejo caer la caja 
+Tu as repris du café 					volviste a tomar café 
+Celà m'a fait penser à mon frère		Eso mi hizo pensar en mi hermano 
+Les enfants doivent boire 				Los ninos tienen que tomar 
+Je dois sortir							Tengo que salir 
+Il sait au moins lire 					El sabe al menos leer 
+Je viens juste de terminer une carte 	Yo justo acabo de terminar una carta 
+Elle, elle est capable de manger		Ella es capaz de comer 
+Parfois celà peut être complètement rouge 	a veces puede estar enteramente roja 
+Elle a donné du lait à un chat			Dio leche a un gato 
+Elle m'a donné une chemise 				Ella me dio una camisa 
+moi je suis de l'ouest					Yo soy del oeste 
+La femme a demandé du vin				La mujer pidio vino 
+Sinon, moi je bois du café				Si no, yo tomo café 
+Le journaliste a bien expliqué 			La periodista explica bien 
+J'ai un appartement						Tengo un departamento 
+Moi, je vois la tour depuis ma maison 	Yo veo la torre desde mi casa 
+Il doit manger davantage				Tiene que comer mas 
+Moi, je ne peux pas boire cette chose	Yo no puedo beber esa cosa 
+Je dois partir							Tengo que salir 
+Je veux voir mon fils maintenant		Quiero ver a mi hijo ahora 
+Il m'a laissé travailler dans son bureau	Me dejo trabajar en su oficina 
+Tu peux emmener ton chat à l'hôtel		Puedes llevar tu gato al hotel 
+Elle, elle ne va jamais nager			Ella jamas va a nadar 
+Je viens de terminer une lettre 		Acabo de terminar una carta 
+Puis je avoir le menu, s'il vous plaît ? 	Puedo tener el menu por favor ?
+La jupe plaît aux filles 				A las chicas les gusta la falda
+Les soldats sautent du bateau			Los soldados saltan del barco 
+
+*********************************************
+*** Parle au futur, décris des situations ***
+*********************************************
+
+Nous allons aider mon frère				Vamos a ayudar a mi hermano 
+Eux, ils ne vont pas gagner				Ellos no van a ganar
+Vas-tu lire ce livre ? 					Vas a leer este libro ? 
+Non, moi je vais dormir 				No, yo voy a dormir 
+Qui va payer ? 							Quien va a pagar ? 
+Qu'allons nous manger ? 				Qué vamos a comer ? 
+Ta chemise est propre					Tu camisa esta limpia 
+C'est étrange 							Es extrano 
+La banque n'est pas ouverte le dimanche	El banco no es abierto el domingo 
+C'est très simple 						Es muy sencillo 
+Ta famille est intéressante				Tu familia es interesante	 
+C'est très commun						Es muy comun 
+Nous allons la chercher					La vamos a buscar / Vamos a buscarla
+Je vais vous compter					las voy a contar 
+Moi,je vais te montrer					Yo te voy a mostrar 
+Cela va m'aider							Esto me va a ayudar 
+Allez vous chercher une maison ? 		Usted va a buscar una casa ? 
+La grand-mère dit que tu ne vas jamais revenir	La abuela dice que no vas a regresar prunto 
+Mes parents vont me chercher à l'aéroport	Mis padres me van a buscar al aeropuerto 
+Je crois que je vais rester ici 		Creo que voy a quedarle aqui 
+Elle, elle vit aujourd'hui principalement en France 	Ella vive hoy en dia principalmente en Francia 
+Malade									Enfermo 
+C'est sale 								Esta sucio 
+Je suis fatiguée						Estoy cansado 
+Cette maison est spacieuse				Esta casa es amplia 
+C'est le premier et dernier jour		Es el primer y ultimo dia 
+Ils sont nombreux 						Son numerosos 
+Eux, ce ne sont pas mes vrais parents	Ellos no son mis verdaderos padres 
+C'est son bonbon 						Es su dulce 
+Mon père est célèbre					Mi padre es famoso 
+Elle est bien plus anicenne				Es mucho mas antigua 
+C'est une date historique 				Es una fetcha historica 
+Ton chapeau est sombre 					Tu sombrero es oscuro 
+Tu es la personne adéquate 				Eres la persona adecuada 
+Elle est efficace						Ella es eficaz
+Elle est parfaite						Ella es perfecta 
+C'est une fête privée					Es una fiesta privada 
+Les canards sont vivants				Los patos estan vivos 
+Le riz est pauvre en sel 				El arroz es escado de sal 
+C'est faible							Es debil 
+çà m'est égal							Me da igual
+Il fait noir depuis						Esta oscuro desde entonces 
+Toi tu n'as pas à être si formel		Tu no tienes que ser tan formal 
+Ceci va m'aider							Esto me va a ayudar 
+Il lave le linge sale					Limpia la ropa sucia 
+Le singe-linge est disponible en noir	la secadora est disponible en negro 
+Vous êtes fatiguée						Usted esta cansado 
+On tombe malade							Nos enfermos 
+Un premier policier est arrivé			Un primer policia llego 
+Mes petites soeurs 						Mis hermanas menores 
+Nous sommes à l'étage inférieur			Estamos en el piso inferior 
+La chambre comprend le lit 				La habitacion incluye la cama 
+Vous ne tenez pas 						Usted no cabe 
+Lui il livre la nourriture				El entraga comida 
+L'enfant est un garçon 					El nino es un nino 
+Je comprends à peu près 				Entendo mas o menos 
+Elle, elle m'a expliqué sa culture		Ella me explico su cultura
+On tombe malade							Caemos enfermos 
+Ce sont les travaux finaux dans cette chambre	Son los trabajos finales en este cuarte 
+L'eau est sale 							El agua esta sucia 
+Nous allons de l'avant 					Vamos hacia adelante 
+Je compte sur vous 						Cuento con ustedes 
+Lui il apparait la nuit					El aparece en la noche 
+Ce n'est définitivement pas la même		No es definitivamente la misma 
+Il lave le linge sale 					El lava la ropa sucia 
+Actuellement c'est comme çà				Actualmente es asi 
+Bien sur que non						Por supuesto que no 
+C'est mon bonbon						Es mi dulce 
+Ma femme est douce						Mi mujer es dulce 
+Ils sont similaires						Son similares 
+C'est aussi la plus ancienne			Tambien es la mas antigua 
+Aucune d'entre elles n'est vivante		Ninguna de ellas esta viva 
+Eux ils ont des documents légaux		Ellos tienen documentos legales 
+C'est très simple 						es muy sencillo 
+Elle elle est en prison 				ella esta en la carcel 
+L'eau est calme							El agua esta calma 
+Il ne sait même pas 					El ni siquiera sabe 
+La paire 								La par 
+
+******************************************
+*** Parler de quantité, parler de pays ***
+******************************************
+
+Carolina a plusieurs jupes 				Carolina tiene varias faldas 
+Lequel ? 								Cual de todos ? 
+Les deus me plaisent 					me gustan ambos 
+J'ai encore beaucoup de travail à finir Tengo todovia mucho trabajo que terminar 
+L'allemagne est un pays d'Europe		Alemania es un pais de europa 
+J'aime bien l'Angleterre				mes gusta Inglaterra 
+La chine est en asie					China es en asia 
+Personne n'est venu 					Nadie vino 
+Je veux quelque chose 					Quiero algo 
+Plusieurs mois 							Varios meses 
+Lequel ? 								Cual de todos ? 
+Doutes tu de moi ? 						Tu dudas de mi ? 
+Les deux me plaisent 					Me gustan ambos 
+Lui il joue avec les deux 				El juego con ambos 
+Il a bu sa bière et en a commandé une autre 	Tomo su cerveza y pidio otra
+Laquelle me plaît ? 					Cual de todos me gusta ? 
+Vous parlez trop vite pour moi 			Usted habla demiasado rapido para mi
+Je ne sais rien 						No sé nada 
+C'est pour toi 							es para ti 
+Ces sont les robes auxquelles je pense 	Son los vestidas en los que pienso 
+Nous ne parlerons pas avec n'importe qui No hablamos con cualquiera 
+Lui ce n'est pas un ami quelconque		El no es un amigo cualquiera 
+Vois tu les leurs ? 					Ves los suyos ? 
+Ces enfants sont les tiens 				Estos ninos son los tuyos 
+Où est le mien ? 						En donde esta el mio ?
+Je veux les siens 						Quiero les suyos 
+Des pommes ? Je n'en ai aucune 			Manzanas ? No tengo ninguna 
+Quelque chose							Algo 
+Je vais tout te raconter 				Te lo voy a contar todo 
+Moi je connais aucune des 2 soeurs		Yo conozco ninguna de las dos hermanas 
+Je veux quelque chose à manger 			Quiero algo para comer 
+J'aime chacun d'entre eux 				Me gusto cada uno de ellos  
+Personne ne comprend pourquoi			Nadie entiende por qué 
+Surtout avec une femme 					Sobre todo con una mujer 
+Personne n'aime cela 					Nadie le gusta eso 
+C'est pour toi 							es para ti 
+Quelqu'un mange 						Alguien come 
+les uns et les autres me disent quoi manger 	Unos y otros me dicen que comer 
+Toi, tu connais l'une des 2 filles ? 	Tu conoces alguna de las chicas ? 
+Je ne vois rien 						No veo nada 
+Les siens sont ici 						los suyos estan aqui 
+Ma cave est différente de la tienne 	Mi sotano es diferente al tuyo 
+Où est le mien ? 						en donde esta el mio ? 
+C'est ce dont il parle					es de lo que habla 
+Il n'est pas du tout jeune 				No es nada joven 
+Je veux tout savoir 					Lo quiero saber todo 
+Nous avons aimé cet hôtel 				Nos gusta este hotel 
+Je suis devenue une femme 				Me volvi una mujer 
+Il a plu tout le jeudi 					llovio todo el jueves 
+La lettre est à propos des éléphants 	la carta es acerca de los elefantes 
+Lui, il a porté mon manteau				El llevo mi abrigo 
+S'il te plaît arrête					por favor, para ! 
+Je remplis la bouteille d'eau 			Lleno la botella de agua 
+Moi j'essaye cela 						Yo initento eso 
+Mon père est sorti 						Mi padre salio 
+Je suis rentré très tard 				Vovi muy tarde 
+Moi non plus je ne peux pas 			Yo tampoco puedo
+La fille améliore sa carte 				La chica mejora su carta 
+Je l'attends depuis ce matin 			Lo espero desde esta manana 
+Lui, il vit dans un village 			El vive en un pueblo 
+Lui il ajoute que sa voiture est noire 	El anade que su coche es negro
+Elle elle perd un cochon 			  	elle pierde un cerdo 
+Nous sommes européens					Somos europeos 
+La bourse de paris						La bolsa de paris 
+L'homme est britannique					El hombre es britanico 
+L'étranger								El extranjero 
+Je parle en français					Hablo en francès 
+Il vit aujourd'hui princpalement en France Vive hoy en dia principalmente en Francia 
+Celle la, elle est pour moi 			Esa es para mi 
+Bruno a plusieurs questions				Bruno tiene varias preguntas 
+Quelqu'un est ici 						Alguien esta aqui 
+Ce qui importe, ce sont mes enfants 	Lo que importa, son mis hijos 
+As tu vu la mienne ? 					Viste la mia ? 
+Un autre, s'il te plait ? 				Otro, por favor 
+C'est une chaîne 						Es una cadena 
+L'artiste est un travailleur comme n'importe quel autre El artista es un trabajador como otro calquiera 
+Sa mère est américaine 					Su madre es estadounidense 
+Les canadiens et les mexicains sont des nord américains 	Los canadienses y los mexicanos sont norteamericanos 
+Paul est un nors américain mais il n'est pas américain, il est canadien 	Paul es un norteamericano pero no es estadounidense, es canadiense
+Il semble qu'il vive en Angleterre 		Parace que vive en Inglaterra
+Il requiert un rendez-vous				Requiere una cita
+Elle me croit toujours 					Todovia me cree
+Il ne vaut pas beaucoup					No vale mucho 
+Ces bottes lui appartiennent 			Estas botas le pertenecen 
+Les gens s'expriment 					La gente se expresa 
+Barcelone te plaît ? 					Te gusta Barcelona ?  	
+
+**********************************************
+*** Indique le chemin, parle de tes études ***
+**********************************************
+
+A gauche ou à droite ? 					A la izquierda o a la derecha ?
+Moi je tourne à droite					Yo giro a la derecha 
+Quelle est ton adresse ? 				Cual es tu direccion ? 
+Elle elle est au centre du village 		ella esta en el centro del pueblo 
+Nous n'avons pas cours aujourd'hui		No tenemos clase hoy 
+Mon frère est étudiant à ll'université 	Mi hermano es estudiante en la universidad
+en quelle classe sont les enfants ? 	En qué grado estan los ninos ?
+J'aime bien mon école ? 				Mi gusta mi colegio 
+C'est la meilleure de sa classe 		Es la mejor de su clase 
+Demain j'ai un cours de français 		Manana tengo una clase de frances 
+L'entrée 								La entrada
+Quelle position ? 						Cual position ?
+Il est partout 							Esta en todos lados 
+L'arrivée 								La llegada 
+Enfin ! 								Por fin ! 
+La recherche							La busqueda 
+Le voyage est long 						El viaje es largo 
+Il s'en va par la sortie				Se va por la salida 
+Le sud 									el sur 
+Elle est du nord 						Ella es del Norte 
+Eux ils nous ont fait des signes 		Ellos nos hacen signales
+Les mois sont passés et eux ils ont pris de nouvelles directions 	Los meses pasaron y ellos tomaron nuevos rumbos 
+Il est à courte distance du centre ville Esta a corta distancia del centro 
+Au sud 									Al sur 
+La direction 							El rumbo 
+Je vois à bateau à droite 				Veo un barco a la derecha 
+Le chat est à côté de la souris 		El gato esta al lado del raton 
+Ici où n'importe ou 					Aqui o en calquier lado 
+Déjà la fin de l'année					Yo el fin del ano 
+Du nord au sud							Del norte al sur 
+Elle fait un pas dans le jardin			Da un paso en el jardin 
+Je n'ai pas vu le signal				No vi la senal 
+Il désire un bon repas					Desea una buena comida 
+La journée est calme					el dia es tranquilo 
+Je vous demande							Lo pido 
+A quelle heure êtes-vous revenu hier soir ? 	A qué hora usted volvio anoche ?
+Lui, il me l'a dit						El me lo dijo 
+L'élève 								El alumno 
+Le degré								El grado 
+Les cours 								Los cursos 
+Lui, il additionne les nombres			El suma los numerosos 
+Etes vous un bon exemple ? 				Es usted un buen ejemplo ?
+Je veux être au niveau					Quiero estar al nivel 
+La réponse 								La respuesta 
+Le titre est gros 						El titulo es grande 
+La tâche								La tarea 
+Le chapitre 							El capitulo 
+L'absence								La ausencia 
+J'aime les jeux de mots					Me gustan los juegos de palabras 
+La faculté								La facultad 
+La section								La seccion 
+Est-ce mon prix ? 						Es mi primio ?
+La connaissance							la conocimiento 
+Je n'ai pas de solutions				No tengo soluciones 
+C'est un très bon matériau				Es un muy buen material 
+Ce fut comme un prix pour moi 			Fue como un premio para mi 
+L'orientation							La orientation 
+Déjà la fin de l'année					Ya el fin del ano 
+C'est seulement un enfant				Es solo un nino 
+J'ai seulement une chaussures			Tengo solamente un zapato 
+Les femmes passent l'arrivée en voiture	Las mujeres pasan la llegada en coche 
+L'extérieur du bâtiment est sale		El exterior del edificio es sucio 
+J'additionne 2 et 2 sans problème		Sumo dos y dos sin problema 
+Son absence est difficile				Su ausencia es dificil 
+Lui il a une intelligence spéciale		El tiene una inteligencia especiale  
+Très bon sujet							Muy buen tema	 
+C'est un matériau assez bon				Es un material bastante bueno 
+Elle elle est douce envers les enfants	Ella es dulce con los ninos 
+Quand sort-il ? 						Cuando sale ? 
+Ces bottes lui appartiennent			Estas botas le pertenecen 
+Il fait noir depuis						Esta oscuro desde entonces 
+Où es tu restée ? 						En donde te quedaste ?
+Je vais avoir un enfant					Voy a tener un nino 
+Ana va penser que je ne l'aime pas 		Ana va a pensar que no la quiero 
+Je me joins à la fête					Me sumo a la fiesta 
+Ses études								Sus estudios 
+ça n'a rien à voir avec l'intelligence	No tiene nada que ver con la inteligencia 
+Comment celà affecte-t-il les étudiants ? 	Como eso afecta a los estudiantes 
+Tous l'appelent ainsi à la faculté		Todos lo llaman asi en la facultad 
+ 
+**************************************************
+*** Communique au travail, utilise l'infinitif ***
+**************************************************
+
+Je n'ai pas le temps 					No tiengo tiempo 
+Pourquoi veulent-ils ces changements ?	Por qué quieren esos cambios ?
+ça prend trop de temps					Es toma demasiado tiempo 
+Ces circonstances sont bonnes			Estas circunstancias son buenas 
+Nous, nous parlons de beaucoup de sujets	Nosotros hablamos sobre muchos asuntos 
+
+Je crois qu'il va pleuvoir aujourd'hui	Creo que va a llover hoy 
+Où allons nous aller demain ? 			A donde vamos a ir manana 
+Nous allons aller au parc				Vamos a ir al parque 
+Je ne vais pas t'écrire					No te voy a escribir 
+Est-ce que je peux passer ? 			Puedo pasar ? 
+Ils vont arriver trop tard 				Van a llegar demasiado tarde 
+Je veux une chemise contre une jupe		Quiero una camisa a cambio de una falda 
+C'est mon genre ! 						Es mi tipo ! 
+C'est l'âge minimal						Es la edad minima
+Vous avez plus ou moins le même âge		Tienen mas or menos la misma edad 
+Je regarde les oeuvres de ma tante		Miro las obras de mi tia 
+Elle elle joue dans de nombreux groupes	Ella toca en numerosos grupos 
+Nous nous vivons des temps difficiles	Nosostros vivimos tiempos dificiles 
+Elle elle attend ce moment depuis longtemps	Ella espera este momento desde hace mucho tiempo 
+La scène 								La escena 
+Je sais ton prénom 						Sé tu nombre 
+La paix									La paz 
+La hauteur								La altura 
+Les images 								Las imagenes 
+Le mouvement est naturel				El movimiento es natural 
+Le danger								El peligro 
+L'effet									El efecto 
+La qualité								La calidad 
+Le programme 							El programa 
+Le contenu								El contenido 
+Le besoin 								La necesidad 
+Voici le code 							Aqui esta el codigo 
+Nous nous voyons fréquemment			Nos vemos con la frecuencia 
+L'officier								El oficial 
+L'objectif								El objectivo 
+La pensée 								El pensiamiento 
+L'importance							la importancia 
+Le résultat								El resultado 
+Le jugement								El jucio 
+la conscience							la conciencia 
+Les personnages							Los personajes 
+La croissance							El crecimiento 
+Lui il désire avoir des succès			El desea tener exito 
+Elle elle l'a fait exprès 				Ella lo hizo a proposito 
+L'accès 								El acceso 
+Le regard 								la mirada 
+L'aspect								El aspecto 
+Le début 								El principio 
+Eux ils vivent en paix					Ellos viven en paz 
+Dans ce pays cette expression ne s'utilise pas 	En ese pais no se usa esa expresion 
+Le programme pour aujourd'hui			El programa para hoy 
+Le groupe a joué hier					El grupo toco ayer
+Celà n'arrive pas fréquemment			Esto no pas con frecuencia 
+Même pas une petite pensée				Ni siquiera un pequeno pensamiento 
+Moi j'ai eu de mauvais résultats cette année	Yo tuvé malos resultados este ano 
+Les caractères chinois sont très beaux	Los caracteres chinos son muy hermanos 
+Le livre est à propos du chien			El libro es a proposito del perro 
+A cette occasion 						En esta ocasion 
+Elle elle est là depuis longtemps		Ella esta aqui desde hace mucho tiempo 
+J'ai tout mon temps						Tengo todo el tiempo del mundo 
+Les adultes sont majeurs				Los adultos son mayores de edad 
+Ceux-là sont des bons hommes			Esos son buenos hombres 
+Ceux-ci sont mes chiens					Estos son mis perros 
+Moi je hais le café						Yo odio el café 
+Eux ce sont 3 amis de moi				Ellos son tres amigos mios 
+Elles elles vivent dans cette ville		Ellos viven en esta ciudad 
+j'étudie à l'étranger					Estudio en el extranjero 
+Ces enfants sont-ils les tiens ?		Estos ninos son los tuyos ? 
+Non, excusez-moi						No, disculpe 
+Excusez-moi, désolé						Disculpe, lo siento
+Enchanté								Mucho gusto 
+J'aime dire n'importe quoi				Me gusta decir calquier cosa 
+Je veux louer une voiture				Quiero alquilar una coche 
+Je lis malgré la nuit					Leo a pesar de la noche
+Aujourd'hui je vais le laisser gagner	Hoy le voy a dejar ganar 
+Il doit réveiller ses camarades			El tiene que despertar a sus companeros 
+Ils doivent cesser de boire 			Tienen que dejar de beber 
+Je vais laisser l'argent à la banque 	Voy a dejar la plata en el banco 
+Je vais les mettre là-bas				Las voy a poner alli 
+Lui il va revenir bientôt				El va a volver pronto 
+Tu peux le trouver ici					Lo puedes a encontrar aqui 
+Où puis-je le rencontrer ? 				Donde lo puedo encontrar ? 
+J'aime bien connaître des gens nouveaux	Me gusta conocer nueva gente 
+Il doit attendre						Debe esperar 
+Moi je veux comprendre 					Yo quiero entender 
+Nous pouvons l'obbtenir					Lo podemos lograr 
+Peux-tu l'atteindre						la puedes conseguir
+Assez poue entendre mais pas pour comprendre	Bastante para oir pero no para entender 
+Je vais t'atteindre						Te voy a alcanzar 
+Lui il ne peut pas se rappeler			El no puede recordar 
+Elle elle peut essayer d'y aller		Ella puede tratar de ir 
+Celà reste à établir					Eso queda por establecer 
+Tu vas surmonter ceci 					Vas a superar esto 
+Je dois le sentir						Lo tengo que sentir 
+Ceci va se résoudre						Eso va a resolver 
+Lui il tente d'améliorer son anglais	El trata de mejorar su ingles 
+Je dois me présenter demain 			Me tengo que presentar manana 
+Ne pas toucher							No tocar 
+Je vais leur obtenir un nouvel avocat	Le voy a conseguir un nuevo abogado 
+J'ai beaucoup trop à faire				Tengo demasiado que hacer 
+La réalité est complètement différente	La realidad es completamente diferente 
+La scène 								El escenario
+Il est temps pour la paix				Es tiempo de paz 
+Le vin fait effet						El vino hace efecto 
+Elle elle est en danger					Ella esta en peligro 
+L'origine								El origen 
+La croissance							El crecimiento 
+La conscience							La conciencia 
+Ce ne sont mes affaires					No es asunto mio 
+Ce sont mes créations					Son mis creaciones 
+Lui il a un beau regard					El tiene una mirada bonita 
+Il fait beau aujourd'hui				Hace buen tiempo hoy 
+Lui il est en danger					El esta en peligro 
+Ton pays d'origine est l'Allemagne		Tu pais de origen es alemania 
+Il est l'heure d'aller à l'école 		Es la la hora de ir al colegio
+Mes parents viennent d'arriver à la station	 Mis padres acaban de llegar a la estacion 
+Je ne peux pas laisser passer ceci 		Esto no lo puedo dejar pasar
+Je dois me réveiller à 6 heures			Me tengo que despertar a la seis 
+Tu veux partir ?						Quieres irte ? 
+Tu ne vas jamais réussir ceci 			Nunca vas a lograr esto 
+Moi je peux t'attendre 					Yo te puedo esperar 
+Il ne faut pas qu'il entre dans ma chambre	No tiene que entrar en mi habitacion 
+Il faut qu'il entre dans un café		Tiene que entrar en un café 
+Eux ils vont se souvenir de moi 		Ellos me van a recordar 
+Nous devons établir les règles			Tenemos que establecer las reglas 
+Nous le lui payons						Se lo pagamaos 
+Malgré elle, elle aime ce garçon 		A pesar de ella, ella quiere a ese chico 
+Nous pouvons y parvenir ensemble		Lo podemos lograr juntos 
+Je vais essayer d'être moi-même			Voy a tratar de ser yo misma 
+Celà fait de la poussière				Eso leventa polvo 
+Je vois les deux hommes					Veo a ambos hombres  		 		 
+Lesquels ?								Cuales de todos ?
+Il aime les travaux dans le jardin		Le gustan los trabajos en el jardin 
+Lui il soigne ma soeur					El cura a mi hernamana 
+Ce n'est pas ce que je veux 			No es lo que quiero
+Moi je n'aime pas les gens				A mi no me gusta la gente 
+Je ne sais rien							No sé nada 
+Personne n'est venu 					Nadié vino  
+Peux-tu entendre cette cloche ?			Puedes oir esa campana ? 
+Soudain il s'est mis à pleuvoir			De pronto se puso a llover 
+Pouvez-vous parler plus lentement s'il vous plait	puedes hablar mas despacio por favor 
+Il y a quelques années					Hace unos cuantos anos 
+Viens ici immédiatemment				Vien aqui imediatamente 
+Je viens d'arriver ici il y a 2 jours	Acabo de llegar aqui hace dos dias 
+Elle pense quitter son mari 			Ella piensa dejar a su marido 
+J'ai commencé à vivre seul				Empecé a vivir solo 
+Elle elle peut mettre la table			Ella puede poner la mesa 
+Moi je peux t'attendre					Yo te puedo esperar 
+Elles elles peuvent comprendre ce livre là	Ellas pueden entender ese libro 
+Très loin 								Muy lejos 
+C'est spécialement pour vous			Es specialmente para usted 
+Nous devons y arriver 					Lo podemos que lograr 
+Je crois que lui va se rappeler celà	Creo que el va a recordar eso 
+Ceci va se résoudre						Esto va a resolver 
+Maintenant je vais te présenter à mes parents	Ahora va a presentarte a mis padres 
+Je vais te présenter à ma copine		Te voy a presentar a mi novia 
+Il est mieux d'éviter cette zone là et mieux d'aller dans celle-ci	Es mejor evitar esa zona y mas vale ir a esta 
+Moi je ne vais m'en aller aujourd'hui	Yo no me voy a ir hoy 
+Je vais me rappeler mon père			Voy a recordar a mi padre 
+Le processus							El proceso 
+La croissance							El crecimiento 
+Pour de vrai ?							De verdad ? 
+Ce sujet reste entre nous				Este asunto se queda entre nosotros
+
+******************************************************
+*** Parler à la voix passive, exprime des émotions ***
+******************************************************
+
+Le plat a été cuisiné par l'homme		El plato fue cocinado por el hombre 
+Certaines de ces lettres-là ont été publiées	Algunas des esas cartas fueron publicadas 
+Elle elle est très connue				Ella es muy conocida 
+les hommes ont été blessés				Los hombres fueron heridos 
+C'est fait par ordinateur				Es hecho por computadora 
+Je suis tellement heureux				Estoy tan feliz 
+je n'ai pas peur						No tengo miedo 
+Elle, elle n'a peur de rien				Ella no tiene miedo de nada 
+As tu faim ? 							Tienes hambre ? 
+Elle elle est triste					Ella esta triste 
+Je suis nerveux							Estoy nervioso 
+Tu es retenu							Estas detenido 
+Elle est déjà payée 					Ya esta pagada 
+Moi j'ai été suivi 						Yo fui seguido 
+Le capitaine a été blessé				El capitan fue herido 
+La voisine est assise					La vecina esta sentada 
+Cette chambre m'est dédiée				Este cuarto esta dedicado a mi 
+Lui il est assis dans le canapé			El esta sentado en el sofa 
+C'est fait par des hommes				Es hecho por hombres 
+Moi je connais l'individu qui est assis là-bas	Yo conozco al individuo que esta sentado alli 
+Ce n'est même pas publié				Ni siquiera esta publicado 
+Le déjeuner a été payé par mon ami		El almuerzo fue pagado por mi amigo 
+Elle elle est à peine connue			Ella es apenas conicida 
+L'absence								La ausencia 
+Mais qu fait-elle au niveau professionel ? 	Pero que hace ella a nivel profesional 
+Je connais son adresse					Conozco si direccion 
+Les deux me plaisent					Me gustan ambos 
+Ce menu est étrange						Este menu es extrano 
+C'est un artiste célèbre				Es un artista famoso 
+Le sourire								La sonrisa 
+L'amitié								La amistad	 
+L'amour 								El amor 
+Elle m'a reçue avec un grand sourire	Ella me recibio con un gran sonrisa 
+La joie									La alegria 
+Le bonheur								La felicidad 
+La soif 								La sed 
+La douleur								El dolor 
+La crainte								El temor 
+La solitude								La soledad 
+La surprise								La sorpresa 
+L'espoir								Le esperanza 
+Le désir 								El deseo 
+La personnalité							La personalidad 
+Le plaisir								El placer 
+J'ai de l'humour						Tengo humor 
+La curiosité							La curiosidad 
+La célébration 							La celebracion 
+Le sentiment 							El sentimiento 
+La satisfaction							La satisfaccion 
+J'ai peur de devoir partir maintenant	Tengo miedo de tener que partir ahora 
+Celà me fait peur chaque fois que je le dis	Eso me da temor cada vez que lo digo 
+Celle-ci est elle une crainte de tout artiste ? Es este un temor de todo artista ?
+Jusqu'à récemment						Hasta recientemente 
+Un drapeau								Un bandera 
+Ces hommes sont des connaissances de mon père	estos hombres son conocidos de mi padre 
+Ce livre leur est dédié 				Este libro va dedicado a ellos 
+Bonne année								Feliz ano nuevo 
+Lui il est de très mauvaise humeur		El esta de muy mal humor 
+Elle elle a peur des chats				Ella les tiene miedo a los gatos 
+Rendre une femme heureuse				Hacer feliz a una mujer 
+Je suis fatigué de ce sourire			Estoy cansada de esa sonrisa 
+la solitude est mauvaise				Le soledad es mala 
+C'est toujours un plaisir				Siempre es un placer 
+Une curiosité							Una curiosidad 
+Bon anniversaire						Feliz compleanos 
+As-tu soif ? 							Tienes sed  
+Oui avec joie							Si con alegria 
+J'ai une surprise pour toi 				Tengo una surpresa para ti 
+Nous souhaitons tous le bonheur			Deseamos todos la felicidad 
+Je peux rendre un soldat heureux		Puedo hacer feliz a un soldado 
+
+**********************************************
+*** Utilise le passé, raconte une histoire ***
+**********************************************
+
+Je n'ai pas mangé aujourd'hui 			No hé comido hoy 
+Aujourd’hui je n'ai pas bu d'eau 		Hoy no hé bebido agua 
+J'ai toujours bu de l'eau				Siempre hé bebido agua 
+Je n'ai rien su de toi 					No hé sabido de ti 
+Je n'ai jamais été en Europe 			Nunca hé estado en Europa 
+J'ai vécu ici pendant trente ans		Hé vivido aqui por treinta anos 
+Nous n'avons jamais été amis			Nunca hemos sido amigos 
+Cette femme n'a jamais été mon institutrice	Esa mujer mujer nunca ha sido mi maestra 
+ça a été une longue nuit				Ha sido una larga noche 
+Qu'as tu fait ? 						Qué has hecho ?
+Tu me les a dîtes						Me las has dicho 
+Tu as tenté d'y aller					Tu has tratado de ir 
+Moi j'ai appelé par téléphone			Yo hé llamado por telefono 
+Ceci m'a beaucoup touché				Esto me ha tocado mucho 
+Elle elle n'a pas voulu manger			Ella no ha querido comer 
+J'ai raté mon train 					hé perdido mi tren 
+Il n'est rien arrivé					No ha occurido nada 
+Le pire est déjà passé					Lo peor ya ha pasado 
+Il n'a pas plu en mars					No ha llovido en marzo 
+C'est ce que j'ai préparé				Es lo que hé preparado 
+Je n'ai connu personne					No hé conocido a nadie 
+Je ne l'ai pas connu lui				Nunca lo he conocido a el 
+Lui il n'a pas lu l'ouvrage				El no ha leido la obra 
+Il n'est rien arrivé					No occurio nada 
+Sont-elles nées ?						Han nacido ?
+Elle elle ne t'a pas entendu			Ella no te ha oido 
+Avez-vous terminé ? 					Ha terminado usted ? 
+Je n'ai jamais marché jusque chez toi	Nunca hé caminado a tu casa 
+Il a emmené les grands-parents au parc	El ha llevado a las abuelos al parque  
+As tu déjà choisi ?						Ya has eligido ? 
+L'as tu développé ? 					Lo has desarrolado ? 
+Elle elle a réussi à manger				Ella ha logrado comer 
+As-tu eu un lapin ? 					Has tenido un conejo ? 
+Celà je l'ai prévu						Eso lo he previsto 
+Eux ils ont mis leurs pantalons			Ellos se han puesto sus pantalones 
+Ceci est arrivé à cause de toi 			Esto ha occurido por ti 
+ma soeur ne t'a pas vu aujourd'hui		Mi hermana no te vio hoy 
+Aujourd’hui je n'ai pas bu d'eau		Hoy no bebi agua 
+Qu'as tu fait ? 						Qué hiciste ?
+Tu est allé à Rome ? 					Fuiste a Roma ? 
+Tu ne me l'a pas dit ? 					No me dijiste ? 
+As-tu touché un éléphant ? 				has tocado / Tocaste un elefante ? 
+Merci d'être venu						Gracias por haber venido 
+Elle elle m'a obligé à parler 			Ella me ha obligado a hablar 
+Ils ont fermé la porte à clef			Ellos han cerrado la puerta con llave	
+Un sandwich 							Un emparedado	
+Merci encore 							Gracias nuevamente ! 
+Je n'écoute pas l'homme mais la femme	No escucho al hombre sino al a mujer 
+De gauche à droite						De izquierda a a la derrecha 
+Lui il avait mangé du pain 				El habia comido pan 
+Elle elle n'avait jamais perdu			Ella nunca habia perdido 
+Après elle était venue 					Despuès habia venido 
+Le moment était arrivé					Habia llegado el momento 	
+Tu étais arrivé après moi 				Habias llegado despuès de mi 
+Je vais au lit 							Voy a a la cama 
+Moi j'avais trouvé la direction			Yo habia encontrado la direccion 
+Moi j'avais décidé de ne pas y aller	Yo habia decidido no ir 
+Le train était déjà parti				El tren ya habia partido 
+Elle elle n'avait rien gagnée			Ella no habia ganado nada 
+Elle elle l'avait déjà supposé			Ella ya lo habia supuesto 
+J'étais resté sans pain 				Me habia quedado sin pan 
+Moi je n'avais jamais autant souffert	Yo jamas habia sufrido tanto 
+Tu as dit que tu n'avais ressenti ceci pour personne	Dijiste que no habia sentido esto por nadie 
+As-tu été à l'étranger ? 				Estuviste en el extranjero ?
+Il semble qu'elle a été malade			Parece que ella ha estado enferma 
+Je n'ai jamais été en Europe			Jamas he estado en Europa 
+Je n'ai jamais fait celà				Nunca he hecho eso 
+Mes parents sont enseignants			Mis padres son docentes 
+Ses employés écrivent 					Sus empleados escriben 
+Nous nous avons voulu boire ce vin là 	Nosotros quisimos beber ese vino 
+Je n'ai connu personne					No he conocido a nadie 
+Je crois avoir lu ça 					Creo haber leo eso 
+Je suis ici parce que lui m'a envoyé	Estoy aqui porque me ha enviado el 
+Eux ils nous ont donné de l'argent		Ellos nos han dado dinero 
+Il semble avoir terminé son travail		Parece haber terminado su trabajo 
+J'ai entendu qu'il est malade			He oidi que esta enfermo 
+Tu as trop bu							Bebiste / Tomaste demasiado 
+Le bébé est né 							El bebe nacio 
+Sont-elles nées ? 						Nacieron ? Han nacido ? 
+Arriver (quelque chose)					occurir 
+Réussir									lograr 
+Arriver (quelque part)					llegar 
+Moi je n'ai pas commandé de repas		Yo no he pedido comida 
+Tu en as produit quelques uns 			Has producido unos cuantos 
+Moi j'ai choisi ceci 					Yo he eligido esto 
+J'ai écrit trois lettres				Escribi tres cartas 
+Vous avez emporté les photos chez vous	Usted ha llevado las fotos a su casa 
+Vous ne tenez pas 						Usted no cabe 
+La chambre comprend le lit 				La habitacion incluye la cama 
+Qui est cette femme là ? 				Quien es aquella mujer ?
+Cet animal marche 						Aquel animal camina 
+Ils l'ont bien traitée					Ellos la trataron bien 
+Moi je n'étais jamais arrivé en retard à l'école auparavant Yo nunca habia llegado tarde a la escuela antes 
+Obtenir									Conseguir 
+Trouver									encontrar 
+Elle avait peut-être découvert quelque chose Quiza ella habia descubierto algo 
+C'est la voisine que j'avais appelée	Es la vecina a quien habia llamado 
+toi tu avais coupé le fromage			Tu habias patido el queso 
+Quelqu'un avait ouvert la fenêtre 		Alguien habia abierto la ventana 
+Nous en avions déjà parlé 				Ya habiamos hablado de eso 
+Ils ont dit que tu étais partie 		Dijeron que tu habias partido 
+Emmener / Emporter						llevar 
+Arriver quelque part 					llegar 
+Appeler									llamar 
+Arriver quelque chose 					Occurir 
+Moi j'ai eu de mauvais résultats cette année 	Yo tuve malos resultados este ano 
+Je me suis décidé 						Mi decidi 
+Il est midi 							Son las doce 
+Moi je vais rententer jeudi				Yo voy a tratar de nuevo el jueves 
+Le mois finit lundi 					el mes acaba el lunes 
+Il va à l'école à 7 heures				El va a la escuela a las siete 
+Les chiens courrent en avant 			Los perros corren hacia adelante 
+Je porte un pantalon 					Llevo puesto un panatalon 
+Aucune d'entre elles n'est vivante		Ninguna de ellas esta viva 
+J'ai tout mon temps 					Tengo todo mi tiempo
+Comprendre 								Entender 
+Entendre								Oir 
+Vous aviez vécu dans un hôtel			Usted habia vivido en un hotel 
+Trouver / retrouver 					Encontrar 
+Elles s'étaient déjà établies quand je suis arrivé	Ya se habian establicido cuando llegué 
+
+***********************************************
+*** Décris la nature, collabore à un projet ***
+***********************************************
+
+Le ciel est bleu 						El cielo es azul 
+Les arbres sont verts 					Los arboles son verdes 
+Eux ils voient la lunes					Ellos ven la luna 
+Les champs sont jaunes 					Los campos son amarillos 
+La pluie 								La lluvia 
+Le volcan 								El volcan 
+Le bois 								La madera 
+La pierre								La piedra 
+La chaleur 								El calor 
+Une feuille 							Una hoja
+L'espèce 								La especie 
+Au feu ! 								Fuego ! 
+Le soleil 								El sol 
+La mer 									El mar 
+Une fleur 								Una flor 
+L'herbe 								La hierba	
+La terre 								La tierra 
+Le patûrage								El pasto 
+La rivière 								El rio 
+La lumière 								La luz 
+L'arbre 								El arbol
+Ce n'est pas une étoile mais une planète No es una estrella sino una planeta 
+A-t-il une expérience professionnelle ? 	Tiene experiencia profesional ?
+Je n'aime pas ces situations			No me gustan esas situaciones 
+Quel est le sujet de ta présentation ? 	Cual es el tema de tu presentacion ?
+Le résultat est les succès de tes efforts	El exito es el resultado de tus esfuerzos 
+Ces gens-ci ont besoin de propositions	esta gente necesita propuestos 
+Son influence est importante en France	Su influencia es importante en Francia 
+Il fait chaud 							Hace calor 
+Cette espèce est très rare 				Esta especie es muy escasa 
+L'évolution								La evolucion
+J'aime la nature 						Me gusta la naturaleza 
+Une dent 								Un diente 
+Une planète 							Una planeta 
+Le gaz 									El gas 
+Le paysage 								El paisaje 
+L'univers 								El universo 
+Je prends ma brosse à dents 			Tomo mi cepillo de dientes
+Le cerveau								El cerebro 
+Une montagne 							Una montana 
+L'espace 								El espacio 
+La forêt								El bosque 
+Le sable 								La arena 
+La racine 								La raiz	 
+L'os 									El hueso 
+Elles elles vont m'attendre 			Ellas van a esperarme 
+Le mont 								El monte
+Le chien a mangé l'os que je lui ai donné 	El perro comio el hueso que le di 
+Le vent 								El viento 
+La fumée								El humo 
+L'ambiance 								El ambiente 
+Le courant								La corriente 
+Elle aime la chaleur de l'été 			A eela le gusta el calor del verano 
+Le soleil est très loin de la terre 	El sol esta muy lejos de la tierra 
+Il est naturellement gentil 			Es bueno por naturaleza 
+Je prends ma brosse à dents 			Tomo mi cepillo de dientes 
+Les os sont blancs						Los huesos son blancos 
+Le courant 								La corriente 
+Es-tu au courant ? 						Estas al corriente ? 
+L'environnement 						El medio ambiente 
+J'aime l'ambiance de l'endroit 			Me gusta el ambiente del lugar
+C'est l'arbre qui cache la forêt		Es el arbol que no deja ver el bosque 
+As-tu soif ? 							Tienes sed ?
+Un grand moment de bonheur 				Un gran momento de felicidad 
+Il est l'heure de rentrer chez soi 		Es hora de volver a casa 
+Ceux sont les vêtements auxquels je pense	Son los vestidos en los que pienso 
+Le geste 								El gesto 
+L'unité 								La unidad 
+La beauté								La bezella 
+C'est aussi une beauté 					Tambien es una belleza 
+La cérémonie fut simple 				La ceremonia fue sencilla 
+C'est un monsieur de grande influence 	Es un senor de mucha influencia 
+La perte 								La perdida 
+La conséquence 							La consecuencia 
+    						
+						
+
+
+
+
+
+
+
+
+	 
+

@@ -1,0 +1,42 @@
+****************************************************
+**** Vocabulaire pour la location d'une voiture ****
+****************************************************
+
+Location de voiture : 				Alquiler de coche
+Louer : 							Alquilar
+Véhicule : 							Vehículo
+Catégorie de voiture : 				Categoría de coche
+Prix par jour : 					Precio por día
+Prix total : 						Precio total
+Réservation : 						Reserva
+Annuler la réservation : 			Cancelar la reserva
+Permis de conduire : 				Licencia de conducir
+Permis international : 				Licencia internacional
+Passeport : 						Pasaporte
+Carte de crédit : 					Tarjeta de crédito
+Assurance : 						Seguro
+Assurance complémentaire : 			Seguro adicional
+Franchise : 						Franquicia
+Dépôt de garantie : 				Depósito de garantía
+Carburant : 						Combustible
+Essence : 							Gasolina
+Diesel : 							Diésel
+Péage : 							Peaje
+Boîtier électronique pour péages :	Tag de peaje
+Conduire : 							Conducir
+Conducteur principal : 				Conductor principal
+Conducteur supplémentaire : 		Conductor adicional
+Kilométrage illimité : 				Kilometraje ilimitado
+Kilométrage limité : 				Kilometraje limitado
+Retourner la voiture : 				Devolver el coche
+Heure de retour : 					Hora de devolución
+État de la voiture : 				Estado del coche
+Dommages : 							Daños
+
+Phrases utiles
+Je voudrais louer une voiture. : 										Quiero alquilar un coche.
+Combien ça coûte par jour ? : 											¿Cuánto cuesta por día ?
+Je veux une assurance complète. : 										Quiero un seguro completo.
+Pouvez-vous m'aider avec la réservation ? : 							¿Pueden ayudarme con la reserva ?
+Je n'ai pas de permis international. : 									No tengo licencia internacional.
+Est-ce que la voiture a un boîtier électronique pour les péages ? : 	¿Tiene el coche un tag de peaje ? 

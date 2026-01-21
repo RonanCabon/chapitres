@@ -1,0 +1,491 @@
+<!doctype html>
+ 
+<html lang="fr" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="../bled.css"/>
+
+<title>Fiches de vocabulaire</title>
+</head>
+<body onload="initTraductionVisibility()">
+
+<!-- Bootstrap Bundle with Popper -->
+<script type="text/javascript" src="../bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="../bled.js"></script>
+
+<h1>Vocabulaire - A connaître</h1>
+
+<header></header>
+
+<div class="container">
+
+<main>
+
+<div class="bled__sticky--buttons d-flex justify-content-end">
+<button onclick="toggleTraduction()">show/hide traductions</button>
+</div>
+
+<h2>Averbes de lieu</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>en bas</td>
+	<td><span class="bled-traduction-es">abajo</span></td>
+</tr>
+<tr>
+	<td>dessous / sous</td>
+	<td><span class="bled-traduction-es">debajo</span></td>
+</tr>	
+<tr>
+	<td>en haut</td>
+	<td><span class="bled-traduction-es">arriba</span></td>
+</tr>	
+<tr>
+	<td>dessus / sur</td>
+	<td><span class="bled-traduction-es">encima</td>
+</tr>	
+<tr>
+	<td>dedans</td>
+	<td><span class="bled-traduction-es">adentro</span></td>
+</tr>
+<tr>
+	<td>dehors</td>
+	<td><span class="bled-traduction-es">afuera</span></td>
+</tr>
+<tr>
+	<td>devant</td>
+	<td><span class="bled-traduction-es">delante</span></td>
+</tr>				
+<tr>
+	<td>derrière</td>
+	<td><span class="bled-traduction-es">detras</span></td>
+</tr>
+<tr>
+	<td>autour</td>
+	<td><span class="bled-traduction-es">alrededor</span></td>
+</tr>				
+<tr>
+	<td>à côté</td>
+	<td><span class="bled-traduction-es">al lado</span></td>
+</tr>				
+				
+<tr>
+	<td>à gauche</td>
+	<td><span class="bled-traduction-es">a la izquierda</span></td>
+</tr>				
+<tr>
+	<td>à droite</td>
+	<td><span class="bled-traduction-es">a la derecha</span></td>
+</tr>
+<tr>
+	<td>monter</td>
+	<td><span class="bled-traduction-es">subir</span></td>
+</tr>				
+<tr>
+	<td>descendre</td>
+	<td><span class="bled-traduction-es">bajar</span></td>
+</tr>				
+<tr>
+	<td>tourner à (gauche/droite)</td>
+	<td><span class="bled-traduction-es">girar a la ...</span></td>
+</tr>								
+<tr>
+	<td>au mileu</td>
+	<td><span class="bled-traduction-es">en el medio</span></td>
+</tr>				
+<tr>
+	<td>tout droit</td>
+	<td><span class="bled-traduction-es">todo recto</span></td>
+</tr>				
+<tr>
+	<td>continuer tout droit</td>
+	<td><span class="bled-traduction-es">seguir todo recto</span></td>
+</tr>	
+<tr>
+	<td>nord / sud / est / ouest</td>
+	<td><span class="bled-traduction-es">el norte / el sur / el este / el oeste</span></td>
+</tr>															
+</tbody>
+</table>
+
+<h2>Averbes de temps simples</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>maintenant</td>
+	<td><span class="bled-traduction-es">ahora</span></td>
+</tr>
+<tr>
+	<td>hier</td>
+	<td><span class="bled-traduction-es">ayer</span></td>
+</tr>	
+<tr>
+	<td>aujourd'hui</td>
+	<td><span class="bled-traduction-es">hoy</span></td>
+</tr>	
+<tr>
+	<td>demain</td>
+	<td><span class="bled-traduction-es">manana</td>
+</tr>	
+<tr>
+	<td>tard</td>
+	<td><span class="bled-traduction-es">tarde</span></td>
+</tr>
+<tr>
+	<td>tôt</td>
+	<td><span class="bled-traduction-es">temprano</span></td>
+</tr>
+<tr>
+	<td>bientôt</td>
+	<td><span class="bled-traduction-es">pronto</span></td>
+</tr>				
+<tr>
+	<td>avant</td>
+	<td><span class="bled-traduction-es">antes</span></td>
+</tr>
+<tr>
+	<td>après</td>
+	<td><span class="bled-traduction-es">despuès</span></td>
+</tr>
+<tr>
+	<td>lundi/mardi/mercredi/jeudi/vendredi/samedi/dimanche</td>
+	<td><span class="bled-traduction-es">lunes/martes/miercoles/jueves/viernes/sabado/domingo</span></td>
+</tr>				
+<tr>
+	<td>les mois de l'année</td>
+	<td><span class="bled-traduction-es">enero/Febrero/Marzo/Abril/Mayo/Junio/Julio/Agosto/Septiembre/Octubre/Noviembre/Diciembre</span></td>
+</tr>				
+				
+</tbody>
+</table>
+
+<h2>Averbes de fréquence</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>toujours</td>
+	<td><span class="bled-traduction-es">siempre</span></td>
+</tr>
+<tr>
+	<td>jamais</td>
+	<td><span class="bled-traduction-es">nunca</span></td>
+</tr>
+<tr>
+	<td>pas encore</td>
+	<td><span class="bled-traduction-es">todovia no</span></td>
+</tr>		
+<tr>
+	<td>souvent</td>
+	<td><span class="bled-traduction-es">a menudo</span></td>
+</tr>	
+<tr>
+	<td>rarement</td>
+	<td><span class="bled-traduction-es">rara vez</td>
+</tr>
+<tr>
+	<td>une fois</td>
+	<td><span class="bled-traduction-es">una vez</span></td>
+</tr>	
+<tr>
+	<td>quelquefois / plusieurs fois</td>
+	<td><span class="bled-traduction-es">algunas veces / a varias veces</span></td>
+</tr>
+<tr>
+	<td>presque jamais</td>
+	<td><span class="bled-traduction-es">casi nunca</span></td>
+</tr>
+<tr>
+	<td>presque toujours</td>
+	<td><span class="bled-traduction-es">casi siempre</span></td>
+</tr>				
+</tbody>
+</table>
+
+<h2>Averbes de moment précis</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>déjà</td>
+	<td><span class="bled-traduction-es">ya</span></td>
+</tr>
+<tr>
+	<td>encore</td>
+	<td><span class="bled-traduction-es">todovia / aun</span></td>
+</tr>	
+<tr>
+	<td>pendant ce temps</td>
+	<td><span class="bled-traduction-es">mientras</span></td>
+</tr>	
+<tr>
+	<td>alors / donc</td>
+	<td><span class="bled-traduction-es">entonces</td>
+</tr>	
+<tr>
+	<td>quelquefois</td>
+	<td><span class="bled-traduction-es">algunas veces</span></td>
+</tr>
+<tr>
+	<td>presque jamais</td>
+	<td><span class="bled-traduction-es">casi nunca</span></td>
+</tr>
+<tr>
+	<td>presque toujours</td>
+	<td><span class="bled-traduction-es">casi siempre</span></td>
+</tr>				
+</tbody>
+</table>
+
+<h2>Les moments de la journée, les repas et les verbes associés</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>le petit-déjeuner</td>
+	<td><span class="bled-traduction-es">el desayuno / desayunar</span></td>
+</tr>
+<tr>
+	<td>le déjeuner</td>
+	<td><span class="bled-traduction-es">la comida / almorzar</span></td>
+</tr>	
+<tr>
+	<td>l'après-midi</td>
+	<td><span class="bled-traduction-es">la merienda / la tarde</span></td>
+</tr>	
+<tr>
+	<td>le soir</td>
+	<td><span class="bled-traduction-es">la noche / la cena / cenar</td>
+</tr>	
+</tbody>
+</table>
+
+<h2>Marcadores para relatar</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>mais</td>
+	<td><span class="bled-traduction-es">pero</span></td>
+</tr>
+<tr>
+	<td>et bien, alors, donc</td>
+	<td><span class="bled-traduction-es">pues</span></td>
+</tr>	
+<tr>
+	<td>bien que</td>
+	<td><span class="bled-traduction-es">aunque</span></td>
+</tr>	
+<tr>
+	<td>parce que / pourquoi</td>
+	<td><span class="bled-traduction-es">porque / por qué</td>
+</tr>	
+<tr>
+	<td>malgré</td>
+	<td><span class="bled-traduction-es">a pesar de</td>
+</tr>	
+<tr>
+	<td>d'une part</td>
+	<td><span class="bled-traduction-es">por una parte</td>
+</tr>	
+<tr>
+	<td>d'autre part</td>
+	<td><span class="bled-traduction-es">por otra parte</td>
+</tr>
+<tr>
+	<td>de plus </td>
+	<td><span class="bled-traduction-es">ademas / pasear</td>
+</tr>	
+<tr>
+	<td>ensuite / après</td>
+	<td><span class="bled-traduction-es">despuès / luego / mas tarde</td>
+</tr>	
+<tr>
+	<td>jusqu'à</td>
+	<td><span class="bled-traduction-es">hasta</td>
+</tr>	
+<tr>
+	<td>pendant que</td>
+	<td><span class="bled-traduction-es">mientras</td>
+</tr>	
+<tr>
+	<td>mais aussi</td>
+	<td><span class="bled-traduction-es">sino tambien</td>
+</tr>	
+<tr>
+	<td>cependant</td>
+	<td><span class="bled-traduction-es">sin embargo</td>
+</tr>	
+<tr>
+	<td>c'est pourquoi</td>
+	<td><span class="bled-traduction-es">es por eso que</td>
+</tr>	
+<tr>
+	<td>en fait</td>
+	<td><span class="bled-traduction-es">de hecho</td>
+</tr>	
+<tr>
+	<td>tout à coup / soudain</td>
+	<td><span class="bled-traduction-es">de repente</td>
+</tr>	
+<tr>
+	<td>il en ressort que</td>
+	<td><span class="bled-traduction-es">resulta qué</td>
+</tr>	
+<tr>
+	<td>bien que</td>
+	<td><span class="bled-traduction-es">aunque</td>
+</tr>	
+<tr>
+	<td>au final</td>
+	<td><span class="bled-traduction-es">al final</td>
+</tr>	
+<tr>
+	<td>pour celà</td>
+	<td><span class="bled-traduction-es">por eso</td>
+</tr>
+<tr>
+	<td>en résumé</td>
+	<td><span class="bled-traduction-es">total qué</td>
+</tr>	
+<tr>
+	<td>à ce moment</td>
+	<td><span class="bled-traduction-es">en aquel momento</td>
+</tr>	
+<tr>
+	<td>au final</td>
+	<td><span class="bled-traduction-es">al final</td>
+</tr>	
+</tbody>
+</table>
+
+<h2>Gradacion del adjectivo</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>Il n'est pas sociable</td>
+	<td><span class="bled-traduction-es">No esta sociable</span></td>
+</tr>
+<tr>
+	<td>Ils sont un peu antipatiques</td>
+	<td><span class="bled-traduction-es">Son un poco anticipaticos</span></td>
+</tr>	
+<tr>
+	<td>Il est assez grand</td>
+	<td><span class="bled-traduction-es">Es bastante alto</span></td>
+</tr>	
+<tr>
+	<td>Il est très aimable</td>
+	<td><span class="bled-traduction-es">Es muy amable</td>
+</tr>	
+</tbody>
+</table>
+
+<h2>Estado civil</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>marié</td>
+	<td><span class="bled-traduction-es">casado(a)</span></td>
+</tr>
+<tr>
+	<td>célibataire</td>
+	<td><span class="bled-traduction-es">soltero(a)</span></td>
+</tr>	
+<tr>
+	<td>veuf</td>
+	<td><span class="bled-traduction-es">vindo(a)</span></td>
+</tr>	
+<tr>
+	<td>séparé</td>
+	<td><span class="bled-traduction-es">separado(a)</td>
+</tr>
+<tr>
+	<td>divorcé</td>
+	<td><span class="bled-traduction-es">divorciado(a)</td>
+</tr>	
+<tr>
+	<td>en union libre</td>
+	<td><span class="bled-traduction-es">en union libre</td>
+</tr>	
+</tbody>
+</table>
+
+<h2>Les papiers</h2>
+
+<table class="table table-dark mt-3">
+<tbody>
+<tr>
+	<td>le billet d'avion</td>
+	<td><span class="bled-traduction-es">el billete de avion</span></td>
+</tr>
+<tr>
+	<td>le téléphone portable</td>
+	<td><span class="bled-traduction-es">el cellular</span></td>
+</tr>	
+<tr>
+	<td>les lunettes</td>
+	<td><span class="bled-traduction-es">la gafras</span></td>
+</tr>	
+<tr>
+	<td>la réservation</td>
+	<td><span class="bled-traduction-es">la réservacion</td>
+</tr>
+<tr>
+	<td>les vaccins</td>
+	<td><span class="bled-traduction-es">la vacuna</td>
+</tr>	
+<tr>
+	<td>la carte de crédit</td>
+	<td><span class="bled-traduction-es">la tarjeta de credito</td>
+</tr>
+<tr>
+	<td>la valise</td>
+	<td><span class="bled-traduction-es">la maleta</td>
+</tr>	
+<tr>
+	<td>les vêtements</td>
+	<td><span class="bled-traduction-es">la ropa</td>
+</tr>	
+<tr>
+	<td>les cosmétiques</td>
+	<td><span class="bled-traduction-es">los cosmeticos</td>
+</tr>	
+<tr>
+	<td>les médicaments</td>
+	<td><span class="bled-traduction-es">los medicamentos</td>
+</tr>	
+<tr>
+	<td>la crème solaire</td>
+	<td><span class="bled-traduction-es">la crema solar</td>
+</tr>	
+<tr>
+	<td>le chapeau</td>
+	<td><span class="bled-traduction-es">el sombrero</td>
+</tr>	
+<tr>
+	<td>le dentifrice</td>
+	<td><span class="bled-traduction-es">la crema dental</td>
+</tr>	
+<tr>
+	<td>la brosse à dents</td>
+	<td><span class="bled-traduction-es">el cupillo de dientes</td>
+</tr>		
+</tbody>
+</table>
+
+
+</main>
+<footer></footer>
+
+</div> <!-- class = container -->
+</body>
+</html>

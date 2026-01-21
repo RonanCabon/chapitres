@@ -1,0 +1,39 @@
+************************************
+*** Vocabulaire dans un aéroport ***
+************************************
+
+Aéroport : 					Aeropuerto
+Vol : 						Vuelo
+Réservation : 				Reserva
+Réserver un vol : 			Reservar un vuelo
+Prix du billet : 			Precio del billete
+Prix total : 				Precio total
+Paiement : 					Pago
+Carte de crédit : 			Tarjeta de crédito
+Passeport : 				Pasaporte
+Carte d'identité : 			Cédula de identidad
+Visa : 						Visa
+Enregistrement : 			Facturación
+Enregistrer les bagages : 	Facturar equipaje
+Bagage à main : 			Equipaje de mano
+Bagage enregistré : 		Equipaje facturado
+Poids maximum : 			Peso máximo
+Enregistrement en ligne :	Facturación en línea
+Imprimer le billet : 		Imprimir el billete
+Carte d'embarquement : 		Tarjeta de embarque
+Porte d'embarquement : 		Puerta de embarque
+Heure de départ : 			Hora de salida
+Heure d'arrivée : 			Hora de llegada
+Retard : 					Retraso
+Annulation : 				Cancelación
+Compagnie aérienne : 		Compañía aérea
+
+Phrases utiles
+Je voudrais réserver un vol pour [ville]. : 	Quiero reservar un vuelo para [ciudad].
+Combien coûte le billet ? : 					¿Cuánto cuesta el billet ?
+Pouvez-vous m'aider avec l'enregistrement ? :	¿Pueden ayudarme con la facturación ?
+Je n'ai pas imprimé mon billet. : 				No he impreso mi billete.
+Où est le comptoir d'enregistrement ? : 		¿Dónde está el mostrador de facturación ?
+Je dois présenter mon passeport ? : 			¿Debo presentar mi pasaporte ?
+Pouvez-vous vérifier si mon vol est retardé ? :	¿Pueden verificar si mi vuelo está retrasado ?
+

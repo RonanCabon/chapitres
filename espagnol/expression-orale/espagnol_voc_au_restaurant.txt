@@ -1,0 +1,45 @@
+*********************************
+*** Vocabulaire au restaurant ***
+********************************* 
+
+* Salutations et accueil
+	Hola:						Bonjour
+	Bienvenido/a:				Bienvenue
+	Mesa para dos, por favor:	Une table pour deux, s'il vous plaît.
+	
+* Menu et plats
+	El menú:					Le menu
+	Entrantes:					Entrées
+	Plato principal:			Plat principal
+	Postre:						Dessert
+	Bebidas:					Boissons
+	
+* Types de plats
+	Sopa:						Soupe
+	Ensalada:					Salade
+	Carne:						Viande
+	Pescado:					Poisson
+	Vegetariano/a:				Végétarien/ne
+	
+* Commande et demandes
+	Quisiera... :				Je voudrais...
+	Para mí,... :				Pour moi,...
+	¿Qué me recomienda? :		Que me recommandez-vous ?
+	La cuenta, por favor :		L'addition, s'il vous plaît.
+	¿Está incluido el servicio?	Le service est-il inclus ?
+	
+* Allergies et préférences alimentaires
+	Soy alérgico/a a...			Je suis allergique à...
+	Sin gluten					Sans gluten
+	Vegetariano/a				Végétarien/ne
+	
+* Expressions courantes
+	Delicioso/a					Délicieux/se
+	Está muy bueno/a 			C'est très bon.
+	No me gusta					Je n'aime pas.
+	
+* Exemples de phrases
+	"Hola, mesa para dos, por favor."
+	"Quisiera una ensalada y un plato principal de carne."
+	"¿Qué postres tienen?"
+	"La cuenta, por favor."

@@ -1,0 +1,105 @@
+**********************************************************
+*** Vocabulaire de base pour demander des informations ***
+**********************************************************
+
+* Questions générales
+	¿Qué?					Quoi ? / Que ?
+	¿Quién?					Qui ?
+	¿Dónde?					Où ?
+	¿Cuándo?				Quand ?
+	¿Por qué?				Pourquoi ?
+	¿Cómo?					Comment ?
+	¿Cuánto/a(s)?			Combien ?
+	
+* Demandes d'information spécifiques
+	¿Puede ayudarme?				Pouvez-vous m'aider ?
+	¿Me puede decir...?				Pouvez-vous me dire... ?
+	¿Dónde está...?					Où se trouve... ?
+	¿A qué hora...?					À quelle heure... ?
+	¿Cuál es la dirección de...?	Quelle est l'adresse de... ?
+	¿Qué significa...?				Que signifie... ?
+	
+* Informations sur les services
+	¿Hay un baño cerca?					Y a-t-il des toilettes près d'ici ?
+	¿Dónde puedo encontrar un taxi?		Où puis-je trouver un taxi ?
+	¿Cómo llego a...?					Comment puis-je arriver à... ?
+	¿Qué transporte público hay?		Quel transport public y a-t-il ?
+	
+* Demandes de clarification
+	¿Puede repetir, por favor?			Pouvez-vous répéter, s'il vous plaît ?
+	No entiendo.						Je ne comprends pas.
+	¿Puede hablar más despacio?			Pouvez-vous parler plus lentement ?
+	
+* Exemples de phrases
+	"¿Dónde está la estación de tren?"
+	"¿A qué hora empieza la película?"
+	"¿Me puede decir cómo llegar al museo?"
+	"No entiendo, ¿puede repetir, por favor?"
+
+**********************************************************
+*** Vocabulaire de base pour demander un renseignement ***
+**********************************************************
+
+1. Salutations et formules de politesse
+
+Avant de demander un renseignement, il est courant de commencer par une salutation ou une formule de politesse :
+
+Hola. : 				Bonjour / Salut.
+Buenos días. : 			Bonjour (le matin).
+Buenas tardes. : 		Bon après-midi / Bonjour (l'après-midi).
+Perdone / Disculpe. :	Excusez-moi (formel).
+Por favor. : 			S'il vous plaît.
+¿Podría ayudarme? : 	Pourriez-vous m'aider ?
+
+2. Expressions pour demander un renseignement
+
+* Questions générales :
+	¿Me puede decir...? :		Pouvez-vous me dire… ?
+			Ex. : ¿Me puede decir dónde está el banco? (Pouvez-vous me dire où se trouve la banque ?)
+	¿Sabes...? / ¿Sabe...? :	Sais-tu… ? / Savez-vous… ?
+			Ex. : ¿Sabes cómo llegar a la estación? (Sais-tu comment aller à la gare ?)
+	¿Dónde está...? :			Où est… ?
+			Ex. : ¿Dónde está el baño? (Où sont les toilettes ?)
+	¿Cómo puedo llegar a...? :	Comment puis-je arriver à… ?
+			Ex. : ¿Cómo puedo llegar al museo?(Comment puis-je arriver au musée ?)
+	¿Qué significa...? :	Que signifie… ?
+			Ex. : ¿Qué significa esta palabra?(Que signifie ce mot ?)
+
+* Questions spécifiques :
+Pour demander des directions :
+	¿Está cerca/lejos...? :		Est-ce proche/loin… ?
+			Ex. : ¿Está lejos el centro comercial?(Le centre commercial est-il loin ?)
+	¿A qué distancia está...? :	À quelle distance se trouve… ?
+			Ex. : ¿A qué distancia está la playa?(À quelle distance se trouve la plage ?)
+	¿Cómo llego a...? :			Comment puis-je aller à… ?
+
+* Pour demander l'heure ou le temps :
+	¿Qué hora es? :				Quelle heure est-il ?
+	¿Cuánto tiempo tarda...? :	Combien de temps cela prend-il… ?
+
+* Pour demander des informations pratiques :
+	¿Cuánto cuesta...? :				Combien coûte… ?
+			Ex. : ¿Cuánto cuesta este billete?(Combien coûte ce billet ?)
+	¿Hay algún lugar cerca para...? :	Y a-t-il un endroit proche pour… ?
+			Ex. : ¿Hay algún lugar cerca para comer? (Y a-t-il un endroit proche pour manger ?)
+
+3. Réponses possibles
+Voici quelques expressions que vous pourriez entendre en réponse :
+
+	Está aquí mismo. : 							C'est juste ici.
+	Está a cinco minutos andando/en coche. :	C'est à cinq minutes à pied/en voiture.
+	No estoy seguro/a, pero creo que... : 		Je ne suis pas sûr(e), mais je crois que…
+
+4. Vocabulaire utile
+Directions :
+	Derecha :				Droite
+	Izquierda : 			Gauche
+	Recto / Todo recto :	Tout droit
+	Cerca de... :			Près de…
+	Lejos de... :			Loin de…
+
+Lieux courants 
+	El baño / El aseo / Los servicios :	Les toilettes
+	La estación (de tren/autobuses) :	La gare (de train/de bus)
+	El aeropuerto :						L’aéroport
+	El hotel :							L’hôtel
