@@ -1,11 +1,14 @@
 .img-grid {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+width: 100%;
+  height: auto;           /* très important */
+  display: block;         /* enlève l'espace en dessous */
+  max-width: 100%;        /* sécurité supplémentaire */
 }
+
 .img-link {
   display: block;
   line-height: 0;
+  text-decoration: none;
 }
 
 .footer {
