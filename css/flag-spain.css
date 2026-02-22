@@ -1,0 +1,22 @@
+.flag-spain {
+    width: 300px;
+    /* largeur du bloc */
+    height: 200px;
+    /* hauteur du bloc */
+    position: relative;
+    /* pour centrer le texte */
+    background:
+        linear-gradient(to bottom,
+            #C60B1E 0% 20%,
+            #FFD700 20% 80%,
+            #C60B1E 80% 100%);
+    border: 2px solid #000;
+    /* optionnel */
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
