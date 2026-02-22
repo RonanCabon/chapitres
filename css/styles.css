@@ -1,6 +1,6 @@
 .img-grid {
-width: 100%;
-  height: auto;           /* très important */
+  width: 100% !important;
+  height: auto !important;           /* très important */
   display: block;         /* enlève l'espace en dessous */
   max-width: 100%;        /* sécurité supplémentaire */
 }
