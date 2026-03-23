@@ -58,6 +58,28 @@
   gap: 20px;
 }
 
+.ligne-tableau,
+.ligne-tableau-3,
+.ligne-tableau-4 {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.ligne-tableau:last-child,
+.ligne-tableau-3:last-child,
+.ligne-tableau-4:last-child {
+  border-bottom: none;
+}
+
+.paragraph-separation {
+  border-bottom: 1px solid #ccc;
+  padding: 8px 0;
+}
+
+.paragraph-separation:last-child {
+  border-bottom: none;
+}
+
 .content-space-around {
   display:flex;
   justify-content: space-around;
