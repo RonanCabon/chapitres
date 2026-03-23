@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+  
+ ol.list-mobile-view, ul.list-mobile-view {
+    padding-left: 0;
+  }
+  
+}

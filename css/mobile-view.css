@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+  table {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tr {
+    display: block;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  td {
+    display: block;
+    width: 100%;
+  }
+
+ ol.list-mobile-view, ul.list-mobile-view {
+    padding-left: 0;
+  }
+}
